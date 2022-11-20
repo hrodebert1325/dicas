@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://pjeje.github.io/laeeb/'
+languageCode = 'pt-br'
 title = 'My New Hugo Site'
+theme = "hugo-theme-learn"
