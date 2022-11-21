@@ -1,5 +1,5 @@
 ---
-title: "Certificado Virtual (arquivo P12)"
+title: "Certificado Virtual (Arquivo P12)"
 date: 2022-11-21T15:22:36-03:00
 weight: 9
 ---
