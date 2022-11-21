@@ -1,0 +1,27 @@
+
+h1 {
+    font-size: 2.75rem; 
+    }
+   
+  #chapter h1 {
+      font-size: 4.5rem;
+     }
+     
+  body #chapter h1 {
+      font-size: 3.0rem;
+  }
+  @media only all and (min-width: 48em) and (max-width: 59.938em) {
+      body #chapter h1 {
+          font-size: 2.5rem;
+      }
+  }
+  @media only all and (max-width: 47.938em) {
+      body #chapter h1 {
+          font-size: 1.5rem;
+      }
+  }
+  
+#body-inner p {
+    text-align: justify;
+}
+  

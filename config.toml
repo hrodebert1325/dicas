@@ -1,7 +1,31 @@
-baseURL = 'laeeb/'
+baseURL = '/'
 languageCode = 'pt-br'
-title = 'My New Hugo Site'
+title = 'PJe Dicas'
 theme = "hugo-theme-learn"
+defaultContentLanguage = "pt"
+metaDataFormat = "yaml"
+
+
+[params]
+themeVariant = "blue"
+editURL = "https://github.com/PJeJE/laeeb/edit/master/content/"
+description = "PJe Dicas v2.0"
+author = "ASPJE"
+showVisitedLinks = true
+disableBreadcrumb = false
+disableNextPrev = false
+disableLandingPageButton = true
+disableMermaid = false
+ordersectionsby = "weight"
+customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
+titleSeparator = "::"
+custom_css = ["css/dicas.css"]
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
+[[menu.shortcuts]]
+name = '<i class="fas fa-pen"></i> Participe!'
+identifier = "ds"
+url = "https://docs.google.com/forms/d/e/1FAIpQLSfxRFWQlGyeRiFW4ZKZQDvc8ofZc44nqFrsyn5m4ll3oR9ffw/viewform?embedded=true"
+weight = 10
