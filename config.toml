@@ -5,6 +5,7 @@ theme = "hugo-theme-learn"
 defaultContentLanguage = "pt"
 defaultContentLanguageInSubdir = false
 metaDataFormat = "yaml"
+canonifyURLs = true
 
 
 [params]
