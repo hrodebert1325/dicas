@@ -1,4 +1,4 @@
-baseURL = 'laeeb/'
+baseURL = 'https://pjeje.github.io/laeeb/'
 languageCode = 'pt-br'
 title = 'PJe Dicas'
 theme = "hugo-theme-learn"
