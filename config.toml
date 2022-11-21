@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'laeeb/'
 languageCode = 'pt-br'
 title = 'PJe Dicas'
 theme = "hugo-theme-learn"
@@ -22,7 +22,7 @@ titleSeparator = "::"
 custom_css = ["css/dicas.css"]
 
 [outputs]
-home = [ "HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
 name = '<i class="fas fa-pen"></i> Participe!'
