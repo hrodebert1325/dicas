@@ -13,5 +13,5 @@ Usuários externos precisam de um certificado digital válido para poder juntar 
 + Para o uso do certificado digital físico, é preciso ter o driver do certificado instalado no computador;
 + Para o uso do mobile é preciso ter o aplicativo instalado no celular;
 + Na página inicial do PJe, ao clicar em **Pré-Requisitos**, é possível verificar se está tudo em ordem para o acesso ao sistema:
-![Tela requisitos](/imagens/requisitos.jpg)
+![Tela requisitos](imagens/requisitos.jpg)
 
