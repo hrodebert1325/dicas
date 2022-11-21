@@ -2,6 +2,7 @@
 title: "Configuração do Computador/Pré-requisitos"
 date: 2022-11-21T15:21:54-03:00
 weight: 5
+menuTitle: "Configurações"
 ---
 
 Usuários externos precisam de um certificado digital válido para poder juntar documentos, ainda que o acesso para usuários previamente cadastrados seja possível com uso de login e senha, todas as juntadas de documentos precisam ser assinadas, o que só é possível com certificado digital;

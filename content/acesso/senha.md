@@ -2,6 +2,7 @@
 title: "Senha esquecida ou bloqueada"
 date: 2022-11-21T15:22:20-03:00
 weight: 7
+menuTitle: "Senhas"
 ---
 
 A geração de senha para o uso do PJe pode ser feita no momento do cadastro (há uma opção de gerar senha, que envia um e-mail para o usuário fazer o cadastro) ou, a qualquer tempo, pelo próprio usuário. Na página inicial do PJe o usuário pode utilizar a opção **Solicitar nova senha**:
