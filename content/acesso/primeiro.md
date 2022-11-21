@@ -1,7 +1,6 @@
 ---
 title: "Primeiro Acesso"
 date: 2022-11-21T15:22:12-03:00
-draft: true
 weight: 6
 ---
 

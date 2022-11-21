@@ -1,7 +1,6 @@
 ---
 title: "Token PJe (Pje Mobile)"
 date: 2022-11-21T15:22:31-03:00
-draft: true
 weight: 8
 ---
 

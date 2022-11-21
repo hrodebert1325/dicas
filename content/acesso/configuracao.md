@@ -1,7 +1,6 @@
 ---
 title: "Configuração do Computador/Pré-requisitos"
 date: 2022-11-21T15:21:54-03:00
-draft: true
 weight: 5
 ---
 

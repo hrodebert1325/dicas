@@ -1,7 +1,6 @@
 ---
 title: "Certificado Virtual (arquivo P12)"
 date: 2022-11-21T15:22:36-03:00
-draft: true
 weight: 9
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Senha esquecida ou bloqueada"
 date: 2022-11-21T15:22:20-03:00
-draft: true
 weight: 7
 ---
 
