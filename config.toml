@@ -1,8 +1,9 @@
-baseURL = 'laeeb/'
+baseURL = '/'
 languageCode = 'pt-br'
 title = 'PJe Dicas'
 theme = "hugo-theme-learn"
 defaultContentLanguage = "pt"
+defaultContentLanguageInSubdir = false
 metaDataFormat = "yaml"
 
 
