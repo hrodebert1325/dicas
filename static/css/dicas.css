@@ -25,10 +25,10 @@ h1 {
     text-align: justify;
 }
 
-#body-inner ul li {
+#body-inner > ul > li {
     text-align: justify;
 }
 
-#body-inner ol li {
+#body-inner > ol > li {
     text-align: justify;
 }
