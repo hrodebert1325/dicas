@@ -4,7 +4,7 @@ date: 2022-11-21T15:22:20-03:00
 weight: 7
 ---
 
-A geração de senha para o uso do PJe pode ser feita no cadastramento do usuário (há uma opção de gerar senha, que envia um e-mail para criação de senha) ou, a qualquer tempo, pelo próprio usuário. Na página inicial do PJe utilize a opção **Solicitar nova senha**:
+A geração de senha para o uso do PJe pode ser feita no cadastramento do usuário (há uma opção que envia um e-mail para criação de senha) ou, a qualquer tempo, pelo próprio usuário. Na página inicial do PJe utilize a opção **Solicitar nova senha**:
 
 ![Tela requisitos](/imagens/solicitar_senha.jpg)
 
