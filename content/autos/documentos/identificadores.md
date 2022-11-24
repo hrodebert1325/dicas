@@ -19,4 +19,4 @@ Existe um campo negocial, denominado número do documento, que pode ser utilizad
 
 O campo Número também está disponível na juntada de documentos pelos autos digitais e, quando informado, ele é exibido nos autos digitais e também na lista de documentos do processo.
 
-![Numero Opcional](/imagens/numero_opcional_2.jpg)
+![Numero Opcional](/imagens/numero_opcional_2.png)
