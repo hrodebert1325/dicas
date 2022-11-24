@@ -1,7 +1,6 @@
 ---
 title: "Situação da Inscrição na OAB"
 date: 2022-11-23T17:26:41-03:00
-draft: true
 menuTitle: "Situação OAB"
 ---
 
