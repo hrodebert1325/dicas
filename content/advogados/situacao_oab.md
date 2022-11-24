@@ -12,7 +12,9 @@ No entanto, não existe impedimento técnico no sistema para que um usuário int
 
 ![Situação OAB](/imagens/situacao_adv_tela_retificacao.png)
 
-Importante ressaltar que os dados apresentados tem apenas caráter informativo, mesmo que em situação irregular. 
+{{% notice warning %}}
+A Importante ressaltar que os dados apresentados tem apenas caráter informativo, mesmo que em situação irregular.
+{{% /notice %}}
 
 Caso o advogado possua mais de uma inscrição regular, a informação acima é baseada apenas na primeira OAB encontrada no momento do cadastramento (em geral a OAB principal), ignorando-se as demais, o que pode não refletir a exata situação cadastral do advogado.
 
