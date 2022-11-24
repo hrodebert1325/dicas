@@ -4,7 +4,7 @@ date: 2022-11-23T17:58:00-03:00
 weight: 4
 ---
 
-As tarefas de construção de documentos, como minutar ato ou elaborar documentos, podem ser executadas individualmente ou em lote (mais de um processo por vez).
+As tarefas de construção de documentos, como **Minutar ato** ou **Elaborar documentos,** podem ser executadas individualmente ou em lote (mais de um processo por vez).
 
 Para construir documentos em lote, deve-se selecionar os processos de alguma tarefa onde a minuta em lote esteja habilitada (atualmente quase todas estão), por meio do campo de seleção disponível ao lado do cabeçalho do processo.
 
