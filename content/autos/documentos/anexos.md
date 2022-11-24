@@ -11,5 +11,5 @@ A opção Arquivos suportados, em destaque na imagem abaixo, lista quais os tipo
 ![Arquivos suportados](/imagens/arquivos_suportados.jpg)
 
 {{% notice tip %}}
-A Quando o sistema apresentar erro de comunicação ao juntar documentos, tente reduzir o número de anexos por petição (mesmo o limite sendo 40, tente juntar apenas 10) e verifique se cada anexo não está com um tamanho individual muito próximo do limite máximo permitido.
+Quando o sistema apresentar erro de comunicação ao juntar documentos, tente reduzir o número de anexos por petição (mesmo o limite sendo 40, tente juntar apenas 10) e verifique se cada anexo não está com um tamanho individual muito próximo do limite máximo permitido.
 {{% /notice %}}
