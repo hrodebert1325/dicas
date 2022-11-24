@@ -4,11 +4,11 @@ date: 2022-11-23T17:26:41-03:00
 menuTitle: "Situação OAB"
 ---
 
-No cadastro inicial, o PJe consulta o Cadastro Nacional dos Advogados (CNA) pelo CPF para verificar se a pessoa está cadastrada. São retornadas inscrições de advogados, suplementares e de estagiários, mas apenas as inscrições em situação regular são consideradas.
+No cadastramento inicial, o PJe utiliza o número do CPF para consultar o Cadastro Nacional dos Advogados (CNA). São retornadas inscrições de advogados, suplementares e de estagiários, mas apenas as inscrições em situação regular são consideradas.
 
 Caso não exista inscrição ativa, o sistema exibirá uma mensagem informando que foram recuperadas informações no CNA, mas não há inscrição ativa, permitindo que o usuário prossiga o cadastro como Jus Postulandi.
 
-No entanto, não há impedimento técnico no sistema para que um usuário interno do tribunal torne essa pessoa um advogado e confirme seu credenciamento, mesmo sem número de inscrição na OAB. Neste caso somente na retificação de autuação será mostrada a situação da inscrição do advogado, e apenas para usuários internos:
+No entanto, não existe impedimento técnico no sistema para que um usuário interno do tribunal torne essa pessoa um advogado e confirme seu credenciamento, mesmo sem número de inscrição na OAB. Nesse caso, somente na retificação de autuação será mostrada a situação da inscrição do advogado, e apenas para usuários internos:
 
 ![Situação OAB](/imagens/situacao_adv_tela_retificacao.png)
 
