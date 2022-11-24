@@ -32,3 +32,19 @@ h1 {
 #body-inner > ol > li {
     text-align: justify;
 }
+
+div.notices.info p:first-child:after {
+    content: 'Observação';
+}
+
+div.notices.warning p:first-child:after {
+    content: 'Atenção';
+}
+
+div.notices.note p:first-child:after {
+    content: 'Nota';
+}
+
+div.notices.tip p:first-child:after {
+    content: 'Dica';
+}
