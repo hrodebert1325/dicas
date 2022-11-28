@@ -36,13 +36,13 @@ Após a confirmação, o sistema exibirá um alerta para que o usuário não per
 
  INSERIR IMAGEM MINUTAR_EM_LOTE_6
  
-Ao confirmar, o sistema tramitará o processo automaticamente para as respectivas tarefas selecionadas para cada processo. Se a próxima tarefa for uma tarefa de assinatura e o usuário tiver permissão para assinar aqueles documentos, os processos serão exibidos no item Assinaturas do painel de tarefas.
+Ao confirmar, o sistema tramitará o processo automaticamente para as respectivas tarefas selecionadas para cada processo. Se a próxima tarefa for uma tarefa de assinatura e o usuário tiver permissão para assinar aqueles documentos, os processos serão exibidos no item **Assinaturas** do painel de tarefas.
 
 No caso da tarefa **Elaborar documentos – ZE**, não há necessidade de tramitação para uma tarefa de assinatura, ao fechar a janela do Minutar em lote, seja pelo botão Cancelar ou pelo próprio ícone de fechamento da janela, os processos estarão com os documentos produzidos. 
 
-Caso o usuário tenha permissão para assinar os tipos de documentos, eles estarão disponíveis para assinatura, individual ou em lote. Para assinar em lote, o usuário deve selecionar o item Assinaturas, disponível no painel do usuário.
+Caso o usuário tenha permissão para assinar os tipos de documentos, eles estarão disponíveis para assinatura, individual ou em lote. Para assinar em lote, o usuário deve selecionar o item **Assinaturas**, disponível no painel do usuário.
 
-Caso o painel não tenha sido atualizado com os documentos produzidos e o item Assinaturas não tenha os documentos disponíveis para assinatura, clique no ícone do PJe no canto superior esquerdo da aplicação, que a tela será atualizada.
+Caso o painel não tenha sido atualizado com os documentos produzidos, clique no ícone do PJe no canto superior esquerdo da aplicação, que a tela será atualizada.
 
 A assinatura em lote permite que se assine todos os documentos pendentes de assinatura. A opção de conferência é opcional.
 
