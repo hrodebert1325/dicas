@@ -6,9 +6,13 @@ weight: 4
 
 As tarefas de construção de documentos, como **Minutar ato** ou **Elaborar documentos**, podem ser executadas individualmente ou em lote (mais de um processo por vez).
 
-Para construir documentos em lote, deve-se selecionar os processos de alguma tarefa onde a minuta em lote esteja habilitada (atualmente quase todas estão), por meio do campo de seleção disponível ao lado do cabeçalho do processo.
+Para construir documentos em lote, deve-se selecionar os processos de alguma tarefa onde a minuta em lote esteja habilitada (atualmente quase todas estão), por meio do campo de seleção disponível ao lado do cabeçalho do processo:
 
-Pode-se, também, selecionar todos os processos da página por meio do campo de seleção que fica logo abaixo dos agrupadores de PROCESSOS/ETIQUETAS (IMAGEM). Selecionando essa opção, todos os processos daquela página serão incluídos no lote. Lembrando que o limite de processos por página é 30. 
+INSERIR IMAGEM MINUTAR_EM_LOTE
+
+Pode-se, também, selecionar todos os processos da página (embrando que o limite de processos por página é 30) ou todos os processos da tarefa, por meio do campo de seleção que fica logo abaixo dos agrupadores de **PROCESSOS/ETIQUETAS:** 
+
+INSERIR IMAGEM MINUTAR_EM_LOTE_1
 
 A edição do documento é similar à edição do documento individual, ou seja, deve-se selecionar o tipo e o modelo no ícone correspondente: 
 
