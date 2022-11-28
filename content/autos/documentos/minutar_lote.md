@@ -14,9 +14,9 @@ Pode-se, também, selecionar todos os processos da página (embrando que o limit
 
 INSERIR IMAGEM MINUTAR_EM_LOTE_1
 
-A edição do documento é similar à edição do documento individual, ou seja, deve-se selecionar o tipo e o modelo no ícone correspondente: 
+A edição do documento é similar à edição do documento individual. A tela da tarefa indicará a quantidade de processos selecionados para o lote, deve-se selecionar o tipo e o modelo no ícone correspondente (1). O ícone de assinatura fica sempre desabilitado no minutar em lote (2), pois a assinatura em lote no PJe é sempre realizada pelo item Assinaturas do painel de tarefas:
 
-O ícone de assinatura fica sempre desabilitado no minutar em lote. A assinatura em lote no PJe é sempre realizada pelo item Assinaturas do painel de tarefas. Por isso o ícone do editor não pode ser utilizado.
+INSERIR IMAGEM MINUTAR_EM_LOTE_2
 
 Ao selecionar o tipo e o modelo de documento, o sistema carrega, na área de exibição de texto do editor, o conteúdo do modelo de documento. Se o modelo contiver variáveis, elas serão carregadas sem a tradução, já que o sistema tem vários processos no lote e não exibirá na área de texto a tradução para cada documento.
 
