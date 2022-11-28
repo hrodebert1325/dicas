@@ -11,12 +11,12 @@ Cada instalação (instância) tem suas próprias configurações e banco de dad
 
 Algumas telas do PJe apresentam os Ids para facilitar o suporte, principalmente quando o usuário está com algum problema em um registro específico (por exemplo: se o problema é em um documento específico, é mais fácil identificar qual o documento pelo ID dele).
 
-Tais registros são criados aleatoriamente pelo banco de dados, não são um dado negocial. Criou-se o hábito de utilizar esse identificador para referenciar alguma decisão terminativa ou outro documento ao longo das comunicações do processo. Não há qualquer problema nessa praxe, mas é preciso saber que, ao remeter o processo, serão criados novos registros de documentos na instância de destino, com Ids específicos gerados pelo banco de dados (ou seja, esses documentos serão “renumerados”).
+Tais registros são criados aleatoriamente pelo banco de dados, não são um dado negocial. Criou-se o hábito de utilizar esse identificador para referenciar alguma decisão terminativa ou outro documento ao longo das comunicações do processo. Não há qualquer problema nessa praxe, mas é preciso saber que, ao remeter o processo, serão criados novos registros de documentos na instância de destino, com Ids específicos gerados pelo banco de dados (ou seja, esses documentos serão renumerados).
 
-Existe um campo negocial, denominado número do documento, que pode ser utilizado para identificação e é enviado na remessa, tal campo também é pesquisável na consulta processual. Porém ele não é preenchido no uso do editor de documento presente na construção de decisões, despachos e sentenças, mas pode ser informado nos anexos:
+Para a finalidade de identificação de documentos, existe um campo negocial, denominado **Número** do documento. Esse dado é enviado e permanece inalterado na remessa. Outro ponto positivo é que campo é pesquisável na consulta processual. Tal campo está disponível na juntada de anexos, apesar de não estar disponível no editor de documentos presente na construção de decisões, despachos:
 
 ![Numero Opcional](/imagens/numero_opcional.jpg)
 
-O campo Número também está disponível na juntada de documentos pelos autos digitais e, quando informado, ele é exibido nos autos digitais e também na lista de documentos do processo.
+O campo **Número** também está disponível na juntada de documentos pelos autos digitais e, quando informado, ele é exibido nos autos digitais e também na lista de documentos do processo.
 
 ![Numero Opcional](/imagens/numero_opcional_2.png)
