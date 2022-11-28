@@ -18,14 +18,24 @@ A edição do documento é similar à edição do documento individual. A tela d
 
 INSERIR IMAGEM MINUTAR_EM_LOTE_2
 
-Ao selecionar o tipo e o modelo de documento, o sistema carrega, na área de exibição de texto do editor, o conteúdo do modelo de documento. Se o modelo contiver variáveis, elas serão carregadas sem a tradução, já que o sistema tem vários processos no lote e não exibirá na área de texto a tradução para cada documento.
+Ao selecionar o tipo e o modelo de documento, o sistema carrega, na área de exibição de texto do editor, o conteúdo do modelo de documento. Se o modelo contiver variáveis, elas serão carregadas sem a tradução, já que o sistema tem vários processos no lote e não exibirá na área de texto a tradução para cada documento:
+
+INSERIR IMAGEM MINUTAR_EM_LOTE_3
 
 Ao salvar clicando no ícone correspondente, o sistema fará a tradução das variáveis de acordo com cada processo. Finalizada a edição, o usuário pode simplesmente fechar a tela ou tramitar o processo para outra tarefa. 
 
-Ao baixar a barra lateral de rolagem da tela, o sistema exibe as opções de tramitação. Pode-se acionar o botão Cancelar e pode-se também alterar para quais tarefas cada processo irá a seguir, finalizando a minuta por meio do acionamento do botão Minutar e movimentar os processos. 
+Ao baixar a barra lateral de rolagem da tela, o sistema exibe as opções de tramitação. Pode-se acionar o botão Cancelar e pode-se também alterar para quais tarefas cada processo irá a seguir, finalizando a minuta por meio do acionamento do botão Minutar e movimentar os processos:
 
-Se acionado o botão Minutar e movimentar os processos, o sistema exibe um alerta para que o usuário saiba que os processos serão movimentados, sendo confirmada a movimentação, o sistema exibirá um alerta para que o usuário não perca possíveis alterações que tenha realizado na área de edição do texto sem posterior acionamento do ícone para Salvar. Se já tiver salvo o documento, pode ignorar o aviso e prosseguir.
+INSERIR IMAGEM MINUTAR_EM_LOTE_4
 
+Se acionado o botão Minutar e movimentar os processos, o sistema exibe um alerta para que o usuário saiba que os processos serão movimentados:
+
+INSERIR IMAGEM MINUTAR_EM_LOTE_5
+
+Após a confirmação, o sistema exibirá um alerta para que o usuário não perca possíveis alterações que tenha realizado na área de edição do texto sem posterior acionamento do ícone para Salvar. Se já tiver salvo o documento, pode ignorar o aviso e prosseguir:
+
+ INSERIR IMAGEM MINUTAR_EM_LOTE_6
+ 
 Ao confirmar, o sistema tramitará o processo automaticamente para as respectivas tarefas selecionadas para cada processo. Se a próxima tarefa for uma tarefa de assinatura e o usuário tiver permissão para assinar aqueles documentos, os processos serão exibidos no item Assinaturas do painel de tarefas.
 
 No caso da tarefa **Elaborar documentos – ZE**, não há necessidade de tramitação para uma tarefa de assinatura, ao fechar a janela do Minutar em lote, seja pelo botão Cancelar ou pelo próprio ícone de fechamento da janela, os processos estarão com os documentos produzidos. 
