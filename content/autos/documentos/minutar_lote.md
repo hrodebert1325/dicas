@@ -49,6 +49,6 @@ A assinatura em lote permite que se assine todos os documentos pendentes de assi
 Utilizando a opção de conferência antes da assinatura como método de trabalho, o usuário assinador pode optar por assinar apenas os conferidos, de forma a garantir que o conteúdo foi revisado por outra pessoa.
 
 {{% notice note %}}
-Caso prefira, acompanhe a execução do procedimento de elaboração de documento em lote assistindo o vídeo. INSERIR VÍDEO ELABORAR_DOCUMENTOS_LOTE
+Caso prefira, acompanhe a execução do procedimento de elaboração de documento em lote assistindo a este vídeo: INSERIR VÍDEO ELABORAR_DOCUMENTOS_LOTE
 {{% /notice %}}
 
