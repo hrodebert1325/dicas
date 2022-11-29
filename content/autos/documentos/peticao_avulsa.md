@@ -86,11 +86,6 @@ No PJe 2G cada TRE pode configurar como achar melhor, lembrando que, ao associar
 |Procuração|
 |Substabelecimento|
 
-
-{{% notice note %}}
-Referência: TRE-SC
-{{% /notice %}}
-
 {{% /tab %}}
 
 {{% tab name="TSE" %}}
