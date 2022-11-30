@@ -11,6 +11,6 @@ Quando necessário (na ausência de certidão), a instância de destino pode ver
 
 IMG DADOS_PROCESSO_REFERENCIA
 
-A opção está disponível para qualquer servidor com acesso aos autos, desde que o processo tenha chegado a instância atual através da remessa entre instâncias. Ao acioná-la, o servidor verá os dados do processo conforme constam na instância originária, inclusive seus movimentos.
+A opção está disponível para qualquer servidor com acesso aos autos, desde que o processo tenha chegado a instância atual através da remessa entre instâncias. Ao acioná-la, o servidor verá os dados do processo conforme constam na instância originária, inclusive seus movimentos:
 
 IMG DADOS_PROCESSO_REFERENCIA_1
