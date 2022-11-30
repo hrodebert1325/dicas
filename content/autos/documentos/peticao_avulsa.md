@@ -72,23 +72,11 @@ No PJe 1G essa configuração é feita pela ASPJe e hoje (consulta efetuada em n
 
 No PJe 2G cada TRE pode configurar como achar melhor, lembrando que, ao associar o Fluxo - Análise de petições avulsas a tarefa (Petições não lidas) abrirá no Gabinete e na SJD, ao associar o Fluxo - Análise de petições avulsas SJD a tarefa (Analisar Petição Avulsa) abrirá apenas na Unidade de Processamento e, por fim, ao associar o Fluxo - Análise de petições avulsas para autuação, a tarefa (Analisar petição avulsa de autuação) abrirá apenas na Unidade de Autuação e Distribuição.
 
-
-|Tipo de Documento|
-|--------------------------|
-|Ato Ordinatório|
-|Contestação|
-|Juntada de Instrução de Inadimplente|
-|Memoriais|
-|Petição|
-|Petição (3º Interessado)|
-|Petição anexa|
-|Petição de Habilitação|
-|Procuração|
-|Substabelecimento|
-
 {{% /tab %}}
 
 {{% tab name="TSE" %}}
+
+No PJe do TSE essa configuração é feita pela ASPJe e hoje (consulta efetuada em novembro de 2022) está da seguinte maneira:
 
 |Tipo de Documento|
 |--------------------------|
@@ -106,8 +94,3 @@ No PJe 2G cada TRE pode configurar como achar melhor, lembrando que, ao associar
 {{% /tab %}}
 
 {{< /tabs >}}
-
-
-
-
-
