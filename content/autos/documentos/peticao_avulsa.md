@@ -11,7 +11,7 @@ O fluxo de petição avulsa dispara quando configurado no **Tipo de Documento**,
 
 {{% tab name="ZONAS" %}}
 
-No PJe 1G essa configuração é feita pela ASPJe e hoje (consulta efetuada em setembro de 2022) está da seguinte maneira:
+No PJe 1G essa configuração é feita pela ASPJe e hoje (consulta efetuada em novembro de 2022) está da seguinte maneira:
 
 |Tipo de Documento|
 |--------------------------|
