@@ -70,7 +70,9 @@ No PJe 1G essa configuração é feita pela ASPJe e hoje (consulta efetuada em n
 
 {{% tab name="TREs" %}}
 
-No PJe 2G cada TRE pode configurar como achar melhor, lembrando que, ao associar o Fluxo - Análise de petições avulsas a tarefa (Petições não lidas) abrirá no Gabinete e na SJD, ao associar o Fluxo - Análise de petições avulsas SJD a tarefa (Analisar Petição Avulsa) abrirá apenas na Unidade de Processamento e, por fim, ao associar o Fluxo - Análise de petições avulsas para autuação, a tarefa (Analisar petição avulsa de autuação) abrirá apenas na Unidade de Autuação e Distribuição.
+No PJe 2G os administradores locais de cada TRE são responsáveis por essa configuração.
+
+Lembrando que, ao associar o **Fluxo - Análise de petições** avulsas a tarefa (Petições não lidas) abrirá no Gabinete e na SJD, ao associar o **Fluxo - Análise de petições avulsas SJD** a tarefa (Analisar Petição Avulsa) abrirá apenas na Unidade de Processamento e, por fim, ao associar o **Fluxo - Análise de petições avulsas para autuação,** a tarefa (Analisar petição avulsa de autuação) abrirá apenas na Unidade de Autuação e Distribuição.
 
 {{% /tab %}}
 
