@@ -7,7 +7,7 @@ No menu **Configuração - Tabelas Judiciais - Classe Judicial** é possível co
 
 Para que uma determinada classe "exista" no PJe ela precisa estar ativa e ter um fluxo associado (E). Observe, na imagem abaixo, a tela de configuração da classe, aba **Formulário** (A):
 
-![configuração da classe judicial](/imagens/configuracao_classe_formulario.jpg)
+IMG_CONFIGURACAO_CLASSE_FORMULARIO
 
 B - **Natureza:** campo de textual para registro de diferenciação entre classes.
 
@@ -15,7 +15,7 @@ C - **Classe superior:** indica a classe hierarquicamente superior da classe sel
 
 D - **Tipo de Documento Inicial:** indica o tipo de documento exigido para que a classe.
 
-E - 
+E - **Fluxo:** especifica o fluxo ao qual estarão associados os processos que utilizam a classe. 
 
 1 - **Inicial:** - determina se a classe pode ser utilizada para cadastro de novos processos (tanto para usuários internos quanto externos).
 
@@ -29,9 +29,11 @@ E -
 
 6 - **Exige inclusão em pauta:** determina a exigibilidade de inclusão em pauta de processos associados à classe. Quando marcada, tais processos não poderão ser julgados sem terem sido previamente pautados.
 
-7 - 
-8 -
-9 - 
+7 - **Ativo:** indica a possibilidade de utilização dessa classe no sistema, desde que haja um fluxo associado (E) e tenha sido feita a configuração de Classe x Assunto dentro da competência.
+
+8 - **Processo referência:** configuração utilizada para exigir, facultar ou suprimir o número de processo de referência durante o cadastro de processos.
+
+9 - **Aplicável a sessões contínuas:** determina que os processos da classe podem ser incluído em sessoes continuas (virtuais).
 
 10 - **Recursal:** - determina se a visibilidade da classe será restrita aos usuários internos, quando desmarcada, possibilita também o peticionamento por usuários externos.
 
@@ -43,18 +45,24 @@ E -
 
 14 - **Exige Revisor:** determina se a classe exige a atuação de revisor. Quando marcado sim, no momento da distribuição, o processo receberá um revisor (conforme configuração estabelecida no Orgão Julgador Colegiado). Se marcado facultativo, após a distribuição do processo, será necessário utilizar a transição Atribuir Revisor. Havendo revisor no processo, este não poderá ir à julgamento sem passar pela revisão.
 
-15 - **Exige numeração própria:** define se processos vinculados à classe sempre receberão número próprio. ATENÇÃO: essa opção não pode estar marcada pois, nas remessas, fará com que os processos recebam novo número, em desacordo com a Resolução CNJ n. 69, que trata da Numeração Única.
+15 - **Exige numeração própria:** define se processos vinculados à classe sempre receberão número próprio na remessa entre instâncias. O correto é deixar a opção desmarcarda, para que a numeração originária do processo seja utilizada. ATENÇÃO: essa opção não pode estar marcada pois, nas remessas, fará com que os processos recebam novo número, em desacordo com a Resolução CNJ n. 69, que trata da Numeração Única.
 
-16 -
-17 - 
-18 - 
-19 - 
+16 - **Exige Fiscal da Lei:** quando marcado, coloca o Ministério Público como Fiscal da Lein no campo Outros Interessados.
+
+17 - **Habilitar máscara:** quando marcado sim, este campo serve para que, sendo indicado o processo de referência (opção do campo 8), ao digitar o número do processo referência, o sistema coloque uma máscara, exibindo pontos e traços no lugar certo, para facilitar a digitação.
+
+18 - **Designar audiência em fluxo:** campo utilizado para designação automática de audiências, indicativo do tipo de audiência cadastrado que deverá ser utilizado para marcação automatizada.
+
+19 - **Remessa entre instâncias?:** quando marcado, esse campo permite que a classe fique disponível na remessa. Ou seja, outras instâncias vão poder remeter processos para a instância atual na classe que está sendo configurada.
+
 20 - **Permite jus postulandi:** define se a classe estará disponível para peticionamento por pessoas sem representação de advogado.
 
 21 - **Sigilosa:** determina se a classe judicial é sigilosa. Nesses casos, processos associados a classes com essa configuração, são tratados como sigilosos
 
 22 - **Realiza compensação:** marca indicativa de que o processo dessa classe deve provocar compensação. De acordo com a documentação do CNJ, essa configuração não está em uso no sistema.
 
-23 - 
-24 - 
-25 -
+23 - **Composição de Julgamento:** permite definir a composição de julgamento, como sendo Integral, Reduzido ou facultativo, 
+
+24 - **Permite numeração manual:** possibilita a criação de um novo processo com a numeração informada manualmente pelo usuário cadastrador. Tal usuário precisa herdar um papel específico para que essa opção possa ser utilizada. Como seu uso não é autorizado na Justiça Eleitoral, pois temos uma ferramenta própria para migração de processos, o papel necessário não está habilitado.
+
+25 - **Público:** essa marcação faz com que, na consulta pública, haja livre acesso aos documentos não sigilosos, não obstante a marcação de publicidade atribuída aos tipos de documentos individualmente. IMPORTANTE: considerando que a Justiça Eleitoral adota uma ferramenta própria de consulta pública (a Consulta Pública Unificada), essa regra da configuração de classe não se aplica aos processos eleitorais. 
