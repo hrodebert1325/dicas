@@ -42,7 +42,7 @@ E - **Fluxo:** especifica o fluxo ao qual estarão associados os processos que u
 
 12 - **Exige ente ou autoridade:** define se é obrigatória a presença de autoridades ou entes como parte do processo. Quando marcada a opção, no cadastro de partes do protocolo do processo, o usuário distribuidor deverá selecionar uma autoridade ou ente conforme regra RN357 ou cadastrar um(a) novo(a). Para processos dessa classe, o protocolo não será permitido se não houver pelo menos uma autoridade ou ente.
 
-13 - 
+13 - **Exigir documento de identificação:** teoricamente, a marcação desse campo impede a possibilidade, em regra disponível para usuários internos, de autuar processos mesmo quando não existem de documentos de identificação das partes. Nos testes em ambientes de homologação essa marcação não funcionou, provavelmente ela não está em uso.
 
 14 - **Exige Revisor:** determina se a classe exige a atuação de revisor. Quando marcado sim, no momento da distribuição, o processo receberá um revisor (conforme configuração estabelecida no Orgão Julgador Colegiado). Se marcado facultativo, após a distribuição do processo, será necessário utilizar a transição Atribuir Revisor. Havendo revisor no processo, este não poderá ir à julgamento sem passar pela revisão.
 
