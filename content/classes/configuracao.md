@@ -7,7 +7,7 @@ No menu **Configuração - Tabelas Judiciais - Classe Judicial** é possível co
 
 Para que uma determinada classe "exista" no PJe ela precisa estar ativa e ter um fluxo associado (E). Observe, na imagem abaixo, a tela de configuração da classe, aba **Formulário** (A):
 
-![Configuracao_classe_formulario](/imagens/Configuracao_classe_formulario.jpg)
+![configuracao_classe_formulario](/imagens/configuracao_classe_formulario.jpg)
 
 
 B - **Natureza:** campo de textual para registro de diferenciação entre classes.
