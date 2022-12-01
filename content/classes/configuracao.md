@@ -23,27 +23,38 @@ E -
 
 3 - **Exige polo passivo:** determina se a presença de partes no polo passivo é obrigatória.
 
-4 - **Possui custas** de acordo com a documentação do CNJ, caso esteja configurada, essa opção habilita um link, na página de cadastro de processos, para uma outra página, onde poderão ser calculadas as custas do processo. O endereço para a página de cálculo de custas é definido pelo órgão, por meio do parâmetro “calcularCustasUrl”. Considerando que, na Justiça Eleitoral não existem custas, a opção deve estar sempre desmarcada e tal parâmetro não deve ser configurado.
+4 - **Ignorar prevenção:** determina se processos associados a classes com essa marcação não deverão ser preventos com outros processos. De acordo com a documentação do CNJ, atualmente, essa configuração não está em uso no sistema.
 
-5 -
-6 - 
+5 - **Possui custas** de acordo com a documentação do CNJ, caso esteja configurada, essa opção habilita um link, na página de cadastro de processos, para uma outra página, onde poderão ser calculadas as custas do processo. O endereço para a página de cálculo de custas é definido pelo órgão, por meio do parâmetro “calcularCustasUrl”. Considerando que, na Justiça Eleitoral não existem custas, a opção deve estar sempre desmarcada e tal parâmetro não deve ser configurado.
+
+6 - **Exige inclusão em pauta:** determina a exigibilidade de inclusão em pauta de processos associados à classe. Quando marcada, tais processos não poderão ser julgados sem terem sido previamente pautados.
+
 7 - 
 8 -
 9 - 
+
 10 - **Recursal:** - determina se a visibilidade da classe será restrita aos usuários internos, quando desmarcada, possibilita também o peticionamento por usuários externos.
 
-11 - 
-12 - 
+11 - **Complementar:** de acordo com a documentação do CNJ, atualmente essa configuração não está sendo utilizada pelo sistema.
+
+12 - **Exige ente ou autoridade:** define se é obrigatória a presença de autoridades ou entes como parte do processo. Quando marcada a opção, no cadastro de partes do protocolo do processo, o usuário distribuidor deverá selecionar uma autoridade ou ente conforme regra RN357 ou cadastrar um(a) novo(a). Para processos dessa classe, o protocolo não será permitido se não houver pelo menos uma autoridade ou ente.
+
 13 - 
-14 -
-15 -
+
+14 - **Exige Revisor:** determina se a classe exige a atuação de revisor. Quando marcado sim, no momento da distribuição, o processo receberá um revisor (conforme configuração estabelecida no Orgão Julgador Colegiado). Se marcado facultativo, após a distribuição do processo, será necessário utilizar a transição Atribuir Revisor. Havendo revisor no processo, este não poderá ir à julgamento sem passar pela revisão.
+
+15 - **Exige numeração própria:** define se processos vinculados à classe sempre receberão número próprio. ATENÇÃO: essa opção não pode estar marcada pois, nas remessas, fará com que os processos recebam novo número, em desacordo com a Resolução CNJ n. 69, que trata da Numeração Única.
+
 16 -
 17 - 
 18 - 
 19 - 
-20 - 
-21 - 
-22 - 
+20 - **Permite jus postulandi:** define se a classe estará disponível para peticionamento por pessoas sem representação de advogado.
+
+21 - **Sigilosa:** determina se a classe judicial é sigilosa. Nesses casos, processos associados a classes com essa configuração, são tratados como sigilosos
+
+22 - **Realiza compensação:** marca indicativa de que o processo dessa classe deve provocar compensação. De acordo com a documentação do CNJ, essa configuração não está em uso no sistema.
+
 23 - 
 24 - 
 25 -
