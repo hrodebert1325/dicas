@@ -10,7 +10,7 @@ Para construir documentos em lote, deve-se selecionar os processos de alguma tar
 
 Pode-se, também, selecionar todos os processos da página por meio do campo de seleção que fica logo abaixo dos agrupadores de PROCESSOS/ETIQUETAS. Selecionando essa opção, todos os processos daquela página serão incluídos no lote. Lembrando que o limite de processos por página é 30: 
 
-![minutar_lote](/imagens/minutar_lote.jpg)
+![minutar_lote](/imagens/minutar_em_lote.jpg)
 
 
 A edição do documento é similar à edição do documento individual, ou seja, deve-se selecionar o tipo e o modelo no ícone correspondente: 
