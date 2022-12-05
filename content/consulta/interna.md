@@ -32,3 +32,9 @@ Basta Criar um novo papel com o nome Consulta de processos para servidor de outr
 O cadastro dos usuários vinculados ao perfil é feito em **Configuração - Pessoa - Servidor,** da forma descrita acima, sendo que no PJe2G o preenchimento do campo **Órgão julgador colegiado** é facultativa:
 
 IMAGEM_CONSULTA_5
+
++ Procuradorias
+
+Outra forma de usuários de uma instância terem acesso ou praticarem atos em processos que estão em outra instância é mediante a criação de procuradorias.
+
+No TSE a consulta processual para usuários dos TREs se dá por procuradores cadastrados. 
