@@ -29,4 +29,6 @@ Nos TREs, os administradores locais podem criar um perfil semelhante em **Config
 
 Basta Criar um novo papel com o nome Consulta de processos para servidor de outra instância, utilizando o identificador consulta. Na aba **Herdeiros** desse papel, deve ser vinculado o papel Colaborador e, na aba **Recursos**, deve ser associado o recurso Página Processo/Consulta/Consulta de Processo.
 
-O cadastro dos usuários vinculados ao perfil é feito em **Configuração - Pessoa - Servidor,** da forma descrita acima.
+O cadastro dos usuários vinculados ao perfil é feito em **Configuração - Pessoa - Servidor,** da forma descrita acima, sendo que no PJe2G o preenchimento do campo **Órgão julgador colegiado** é facultativa:
+
+IMAGEM_CONSULTA_5
