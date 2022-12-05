@@ -9,7 +9,7 @@ Os processos criminais exigem informações adicionais para distribuição, são
 **Local do Fato:** essa aba tem como campos obrigatórios a Data, o Estado e o Município onde ocorreu o fato. 
 
 {{% notice info %}}
-O campo CEP não é obrigatório. Se preenchido, o sistema carrega os dados de endereço; se não, os dados podem ser informados manualmente. 
+O campo **CEP** não é obrigatório. Se preenchido, o sistema carrega os dados de endereço; se não, os dados podem ser informados manualmente. 
 O campo **Local do Fato** apesar do sinal de * ao lado, é de preenchimento opcional.
 {{% /notice %}}
 
