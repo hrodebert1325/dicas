@@ -18,18 +18,18 @@ Quando identificar a duplicidade de partes, se tiver certeza de que são a mesma
 
 {{% tab name="MINISTÉRIO PÚBLICO" %}}
 
-Pode ser cadastrado como pessoa jurídica ou como Ente ou Autoridade.
+Pode ser cadastrado como **Pessoa jurídica** ou como **Ente ou Autoridade.**
 
 Os Ministérios Públicos de todos os Estados já estão cadastrados no sistema. No Distrito Federal, o Ministério Público está cadastrado como Ministério Público do DF e Territórios.
 {{% /tab %}}
 
 {{% tab name="ZONAS ELEITORAIS" %}}
 
-As zonas devem ser cadastradas como Entre ou Autoridade. Todas as Zonas do país já estão cadastradas no sistema, no formato JUÍZO DA <NÚMERO DA ZONA>ª ZONA ELEITORAL DE <MUNICÍPIO SEDE> <SIGLA DO ESTADO>.
+As zonas devem ser cadastradas como **Entre ou Autoridade.** Todas as Zonas do país já estão cadastradas no sistema, no formato JUÍZO DA <NÚMERO DA ZONA>ª ZONA ELEITORAL DE <MUNICÍPIO SEDE> <SIGLA DO ESTADO>.
   
 Este campo se autocompleta, mas o formato acima precisa ser obedecido com exatidão.
   
-PJe 1G, todas as Zonas eleitorais já estão devidamente cadastradas no sistema, sempre como Ente ou autoridade e no formato acima. Não devendo ser cadastradas novas partes para Zonas Eleitorais.
+PJe 1G, todas as Zonas eleitorais já estão devidamente cadastradas no sistema, sempre como **Ente ou Autoridade** e no formato acima. Não devendo ser cadastradas novas partes para Zonas Eleitorais.
   
 {{% /tab %}}
 
@@ -37,7 +37,7 @@ PJe 1G, todas as Zonas eleitorais já estão devidamente cadastradas no sistema,
 
 Os TREs devem ser cadastrados como pessoas jurídicas.
   
-Todos os tribunais Regionais Eleitorais já estão devidamente cadastrados no sistema como PESSOA JURÍDICA - Órgão Público, utilizando o seguinte padrão: TRIBUNAL REGIONAL ELEITORAL DE <ESTADO>.
+Todos os tribunais Regionais Eleitorais já estão devidamente cadastrados no sistema como **Pessoa Jurídica** - Órgão Público, utilizando o seguinte padrão: TRIBUNAL REGIONAL ELEITORAL DE <ESTADO>.
   
 A Justiça Eleitoral ou Justiça Pública Eleitoral é uma abstração, ela não tem natureza de pessoa jurídica, ente ou autoridade. Apesar disto há diversos processos autuados com essa figura cadastrada como ente ou autoridade.
   
