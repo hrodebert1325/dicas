@@ -5,7 +5,7 @@ menuTitle: "Interna"
 weight: 5
 ---
 
-A **Consulta de Processos** disponiveis para usuários logados pode ser acessada pelo menu Process - Pesquisar - Processo (você também pode utilizar o acesso rápido para digitar a expressão de busca):
+A **Consulta de Processos** disponiveis para usuários logados pode ser acessada pelo menu **Processo - Pesquisar - Processo** (você também pode utilizar o acesso rápido para digitar a expressão de busca):
 
 IMAGEM_CONSULTA_1
 
@@ -27,6 +27,6 @@ IMAGEM_CONSULTA_4
 
 Nos TREs, os administradores locais podem criar um perfil semelhante em **Configuração - Controle de Acesso - Papéis.**
 
-Basta Criar um novo papel com o nome **Consulta de processos para servidor de outra instância,** utilizando o identificador **consulta**. Na aba **Herdeiros** desse papel, deve ser vinculado o papel **Colaborador** e, na aba **Recursos**, deve ser associado o recurso **Página Processo/Consulta/Consulta de Processo.**
+Basta Criar um novo papel com o nome Consulta de processos para servidor de outra instância, utilizando o identificador consulta. Na aba **Herdeiros** desse papel, deve ser vinculado o papel Colaborador e, na aba **Recursos**, deve ser associado o recurso Página Processo/Consulta/Consulta de Processo.
 
 O cadastro dos usuários vinculados ao perfil é feito em **Configuração - Pessoa - Servidor,** da forma descrita acima.
