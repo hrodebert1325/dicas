@@ -6,9 +6,9 @@ weight: 4
 
 Há duas formas de distribuir carta precatória:
 
-1ª forma: Diretamente na zona deprecada, observando-se a manutenção da numeração única do processo (da zona deprecada). Nesse caso  os autos ficam corretamente vinculados a caixa do Procurador deprecado.
++ 1ª forma: Diretamente na zona deprecada, observando-se a manutenção da numeração única do processo (da zona deprecada). Nesse caso  os autos ficam corretamente vinculados a caixa do Procurador deprecado.
 
-2ª forma: a carta precatória é autuada e distribúida na zona deprecante, sendo posteriormente remetidos à zona deprecada. Nesse caso, há duas situações possíveis:
++ 2ª forma: a carta precatória é autuada e distribúida na zona deprecante, sendo posteriormente remetidos à zona deprecada. Nesse caso, há duas situações possíveis:
 
 a) quando a remessa é para outra zona do mesmo Estado, a numeração permanece e, a princípio, o processo ainda fica vinculado na caixa do Promotor deprecante. Entretanto, no primeiro ato de comunicação, o processo migra para caixa correta, ou seja, na primeira intimação ao Ministério Público, o promotor do juízo deprecado é comunicado, de forma a ser viabilizada a atuação;
 
