@@ -8,7 +8,7 @@ O peso processual é resultado da composição de alguns aspectos inerentes ao p
 
 Ao criar um cargo judicial em um órgão julgador, o sistema pergunta se ele deve ser inicializado com os valores dos outros cargos existentes. Se sim, o sistema cria o cargo já com os pesos acumulados dos outros que já existem e estão recebendo distribuição.
 
-Desse modo, para um magistrado que vai começar a atuar em uma ZE ou tribunal e não se deseja que ele inicie recebendo processos a mais, deve-se criar um cargo judicial dentro do órgão, com as seguintes características: (aqui fiquei em dúvida, é para um magistrado ou para um OJ novo?)
+Desse modo, para um magistrado que vai começar a atuar em uma ZE ou tribunal e não se deseja que ele inicie recebendo processos a mais, deve-se criar um cargo judicial dentro do órgão, com as seguintes características: 
 + Descrição: a critério do usuário; 
 + Sigla: a critério do usuário;
 + Cargo: Ministro; 
@@ -19,6 +19,6 @@ Desse modo, para um magistrado que vai começar a atuar em uma ZE ou tribunal e 
 
 Ao selecionar a opção Incluir, o sistema exibirá a seguinte mensagem: “Deseja que o acumulador de cargos seja atualizado para não haver compensação na distribuição?” A resposta deve ser Sim.
 
-Após finalizada essa etapa, você deve vincular o magistrado como titular do órgão vinculado a esse novo cargo judicial.
+Finalizada essa etapa, você deve vincular o magistrado como titular do órgão vinculado ao novo cargo judicial.
 
 Mais informações sobre a distribuição: Distribuição - PJe
