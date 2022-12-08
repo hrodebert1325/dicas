@@ -11,6 +11,6 @@ Feito isso, é iniciada a tarefa **Registrar recurso** para que o servidor faça
 Como o início dessa tarefa é resultado de uma configuração no tipo de documento, caso o usuário externo não classifique corretamente sua petição, a tarefa não será iniciada automaticamente.
 {{% /notice %}}
 
-Quando, ao analisar os autos do processo, o servidor percebe que o documento de petição inserido pelo advogado é um recurso que foi indevidamente classificado, basta que este inicie a tarefa de registro de recurso. Está possibilidade se dá a partir da tarefa Analisar determinação:
+Quando, ao analisar os autos do processo, o servidor percebe que o documento de petição inserido pelo advogado é um recurso que foi indevidamente classificado, basta que este inicie a tarefa de registro de recurso. Está possibilidade se dá a partir da tarefa **Analisar determinação:**
 
 IMG_RECURSO_2
