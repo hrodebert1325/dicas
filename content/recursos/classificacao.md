@@ -9,7 +9,7 @@ A lista de **Recursos já registrados (1)** exibe todos os recursos já registra
 
 A lista de **Recursos não registrados (2)** exibe todos os documentos vinculados a classes recursais classificadas como recurso interno e que não estão ainda vinculados a uma capa processual recursal.
 
-Caso a classificação da peça recursal tenha sido feita errada, o documento estará na lista **Outros documentos do processo (3)** e a reclassificação acontece nessa mesma tela, por meio do ícone de lápis (4) disponível na coluna Ações da petição correspondente:
+Caso a classificação da peça recursal tenha sido feita errada, o documento estará na lista **Outros documentos do processo (3)** e a reclassificação acontece nessa mesma tela, por meio do ícone de lápis (4) disponível na coluna **Ações**, do documento correspondente:
 
 IMG_RECURSO_3
 
