@@ -12,7 +12,7 @@ pre = "<b>13. </b>"
 
 {{% children  %}}
 
-A opção de contagem de prazo em horas tem problemas e necessita de ajuste, enquanto a correção não for feita, a recomendação é que se converta o prazo em dias.
+A opção de contagem de prazo em horas tem problemas e necessita ajustes. Enquanto a correção não for feita, a recomendação é que se converta o prazo em dias.
 
 Não obstante à necessidade de correção no sistema, a jurisprudência do TSE é farta no que se refere à conversão de prazos em horas para prazos em dias:
 
