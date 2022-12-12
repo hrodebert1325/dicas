@@ -37,7 +37,7 @@ PJe 1G, todas as Zonas eleitorais já estão devidamente cadastradas no sistema,
 
 Os TREs devem ser cadastrados como pessoas jurídicas.
   
-Todos os tribunais Regionais Eleitorais já estão devidamente cadastrados no sistema como **Pessoa Jurídica** - Órgão Público, utilizando o seguinte padrão: TRIBUNAL REGIONAL ELEITORAL DE <ESTADO>.
+Todos os tribunais Regionais Eleitorais já estão devidamente cadastrados no sistema como **Pessoa Jurídica - Órgão Público,** utilizando o seguinte padrão: TRIBUNAL REGIONAL ELEITORAL DE <ESTADO>.
   
 A Justiça Eleitoral ou Justiça Pública Eleitoral é uma abstração, ela não tem natureza de pessoa jurídica, ente ou autoridade. Apesar disto há diversos processos autuados com essa figura cadastrada como ente ou autoridade.
   
