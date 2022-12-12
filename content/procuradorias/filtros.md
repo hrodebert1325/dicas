@@ -1,6 +1,7 @@
 ---
 title: "Filtros"
 date: 2022-11-29T16:24:55-03:00
+weight: 6
 ---
 
 Filtros de caixa são critérios que permitem que os processos sejam automaticamente distribuídos para determinada caixa.
