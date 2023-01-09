@@ -15,5 +15,5 @@ Quando devolvido pelo TRE, deve ir automaticamente para as tarefas **Analisar pr
 
 
 {{% notice warning %}}
-A transição Retornar processo não tem relação com a remessa, ela só retorna o processo de volta para a tarefa Analisar determinação ou Analisar processo.
+A transição Retornar processo não tem relação com a remessa, ela só retorna o processo de volta para as tarefas **Analisar determinação** ou **Analisar processo.**
 {{% /notice %}}
