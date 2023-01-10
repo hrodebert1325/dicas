@@ -60,14 +60,15 @@ Processo que é remetido (na instância de origem da remessa) precisa:
 + ter movimentos de baixa e envio;
 + estar bloqueado (aquele aviso “Este processo foi remetido e por isso não pode ser movimentado”).
 +
-Processo que é recebido (na instância de destino da remessa) precisa: 
+Processo que é recebido (na instância de destino da remessa) precisa:
+
 SE FOR PRIMEIRA REMESSA
 + ser autuado/distribuído.
 
 SE FOR RETORNO PARA A INSTÂNCIA
 + ter os documentos produzidos na instância de origem;
 + sair da tarefa estacionária;
-+ ter movimentos de recebimento (ou recebimento e reativação, caso seja um processo que já tenha passado pela instância); e
++ ter movimentos de recebimento (ou recebimento e reativação, caso seja um processo que já tenha passado pela instância);
 + estar desbloqueado.
 
 Com base nos requisitos acima, será possível definir em que instância (se na da origem da remessa ou se na de destino) se deve atuar para tentar corrigir os erros.
@@ -78,7 +79,9 @@ Nos próximos tópicos vamos ensinar como ajustar localmente cada um dos pontos 
 
 + Remessa concluída, mas o processo não foi para tarefa estacionária
 
-Se o processo estiver bloqueado (com o aviso “Este processo foi remetido e por isso não pode ser movimentado”)
+Se o processo estiver bloqueado (com o aviso “Este processo foi remetido e por isso não pode ser movimentado”), ele precisa ser desbloqueado pela tarefa **Iniciar digitalização** e depois precisa ser utilizada a tarefa **Bloquear processo que está em outra instância,**, conforme explicação abaixo, em tópico específico.
+
+Se o processo estiver desbloqueado, basta utilizar a tarefa **Bloquear processo que está em outra instância,**, conforme explicação abaixo, em tópico específico.
 
 + Remessa concluída, mas o processo não teve os movimentos de baixa
 
