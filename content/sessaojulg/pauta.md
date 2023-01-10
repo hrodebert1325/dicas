@@ -35,9 +35,7 @@ Essas configurações de movimento dizem respeito ao registro final no processo 
 + dataSessao;
 + horaSessao;
 + tipoSessao;
-
-Para processos da justiça eleitoral estão disponíveis, ainda:
-+ Estado;
++ Estado; 
 + Municipio. 
 
 
