@@ -52,3 +52,80 @@ Feito isso, é preciso deletar a remessa (na aba processo) e fazer nova tentativ
 
 {{% notice tip %}}
 Além destes erros tratados, existem casos em que a remessa é concluída com falhas, ou ainda, situações em que aparentemente a remessa foi feita, mas o processo não chegou ao destino. Na maior parte das vezes uma nova tentativa de remessa resolve o problema, na sequência, vamos abordar as formas de correção para estes casos.{{% /notice %}}
+
+Para saber se uma remessa foi bem sucedida, o processo precisa ser verificado na instância de origem (que fez a remessa) e na de destino (para onde a remessa foi feita), devendo atender as seguintes condições:
+
+Processo que é remetido (na instância de origem da remessa) precisa:
++ migrar para uma tarefa estacionária (manter processos expedidos, aguardando apreciação de outra instância, etc.);
++ ter movimentos de baixa e envio;
++ estar bloqueado (aquele aviso “Este processo foi remetido e por isso não pode ser movimentado”).
++
+Processo que é recebido (na instância de destino da remessa) precisa: 
+SE FOR PRIMEIRA REMESSA
++ ser autuado/distribuído.
+
+SE FOR RETORNO PARA A INSTÂNCIA
++ ter os documentos produzidos na instância de origem;
++ sair da tarefa estacionária;
++ ter movimentos de recebimento (ou recebimento e reativação, caso seja um processo que já tenha passado pela instância); e
++ estar desbloqueado.
+
+Com base nos requisitos acima, será possível definir em que instância (se na da origem da remessa ou se na de destino) se deve atuar para tentar corrigir os erros.
+
+Se não há documentos produzidos na instância de origem, não adianta tentar atuar no destino. Por outro lado, uma vez que os documentos produzidos na origem tenham chegado (casos de retorno para a instância), não há que se falar em nova tentativa de remessa.
+
+Nos próximos tópicos vamos ensinar como ajustar localmente cada um dos pontos acima.
+
++ Remessa concluída, mas o processo não foi para tarefa estacionária
+
+Se o processo estiver bloqueado (com o aviso “Este processo foi remetido e por isso não pode ser movimentado”)
+
++ Remessa concluída, mas o processo não teve os movimentos de baixa
+
+Algumas vezes pode ocorrer de o processo ser remetido à outra instância, mas os movimentos de baixa não serem lançados na origem. Nesse caso, o servidor pode fazer o lançamento dos movimentos.
+
+Para que os movimentos sejam lançados corretamente, na tarefa de envio, devem ser selecionados o motivo da remessa e a instância de destino. Se não selecionar o motivo da remessa, a transição apresentará erro e não será concluída. Se não selecionar a instância de destino, o sistema poderá atribuir um valor errado ao movimento e este não poderá ser posteriormente ajustado.
+
+Estando o processo na tarefa de remessa, deve-se selecionar a transição **Registrar movimento baixa (selecione instância e motivo).** O processo será tramitado para uma tarefa intermediária denominada **Conferir processo remetido.** Essa tarefa é importante para identificarmos os casos em que se tenha tramitado manualmente o processo sem que ele tenha chegado ao destino, facilitando o trabalho da investigação de problemas.
+
+A partir desta tarefa, deve-se selecionar **Aguardando apreciação do TRE** ou a tarefa estacionária equivalente no segundo grau para que o processo fique na tarefa de finalização do envio.
+
++ Remessa concluída sem bloqueio do processo
+
+Algumas vezes, apesar de a remessa ser concluída com sucesso (ou usuário vai saber isto verificando na Consulta interna ou pública da instância de destino), o sistema não bloqueia o processo na origem para tramitação e inclusão de documentos. Esse bloqueio é fundamental para que novas informações processuais sejam inseridas apenas na instância onde está ocorrendo a tramitação atual do processo.
+
+Ocorrendo esta situação, se o processo estiver na tarefa de finalização do envio, deve-se escolher a opção **Retornar para análise sem registro de movimento.**
+
+Para realizar o bloqueio, há uma transição chamada **Bloquear processo que está em outra instância,** disponível a partir das tarefas de análise (para o primeiro grau: **Analisar processos, Analisar novo processo e Analisar determinação,** urgentes ou não. Para as instâncias colegiadas: **Verificar pendências).**
+
+Isso fará com que o processo seja tramitado para a tarefa de finalização do envio (tarefa estacionária) e seja bloqueado para tramitação de petições.
+
+Importante: em alguns casos as transições mencionadas não estarão disponíveis (nos fluxos de corregedoria, por exemplo, ou quando os processos são mais antigos e estão em fluxos desatualizados) entre em contato com a ASPJe para maiores orientações sobre como proceder em tais situações.
+
++ Processo não foi atuado na instância de destino ou os documentos produzidos na instância de origem não chegaram, mas o processo ficou bloqueado na origem
+
+Nesse caso não houve a remessa. Ainda que, ao analisar o processo apenas na instância de origem, tudo indique que o procedimento foi executado com sucesso.
+
+Quando a remessa não ocorre de maneira efetiva, a primeira coisa que o usuário precisa fazer é uma nova tentativa. 
+
+Em estando o processo bloqueado (com o aviso “Este processo foi remetido e por isso não pode ser movimentado”), abra os autos e clique na opção **Iniciar atividade de digitalização.**
+
+No primeiro grau a tarefa está disponível para o perfil de administrador estado e nos TREs foi originalmente configurado para os Administradores.
+
+O acionamento desta opção retirará o bloqueio do processo e abrirá uma nova tarefa, denominada **Processo destravado.** O servidor deve finalizar a tarefa (antes de fazer a nova tentativa de envio). 
+
+{{% notice warning %}}
+Para solução de problemas técnicos pela equipe de suporte, podem existir outras opções nessa tarefa (como novo fluxo originárias), jamais as utilize quando estiver tentando desbloquear um processo.{{% /notice %}}
+
+Depois, é só tramitar o processo na tarefa principal em que ele se encontra já desbloqueado.
+
+Em geral o processo estará na tarefa de finalização do envio (tarefa estacionária). A opção **Reativar com registro de movimento** lança o movimento processo reativado, a opção **Retornar para análise sem registro de movimento,** não.
+
+{{% notice tip %}}
+Em alguns casos as transições para retirada da tarefa estacionária mencionadas acima não estarão disponíveis (nos fluxos de corregedoria, por exemplo, ou quando os processos são mais antigos e estão em fluxos desatualizados, nestes casos você pode chamar o processo à ordem para tirá-lo da tarefa ou entrar em contato com a ASPJe para maiores orientações sobre como proceder).
+{{% /notice %}}
+
++ Remessa concluída (os documentos produzidos na instância de origem chegaram) mas o processo não saiu da tarefa estacionária e/ou não foi desbloqueado
+
+Pode acontecer de um processo retornar de uma outra instância via remessa e os movimentos de reativação não terem sido lançados. Neste caso, a partir da tarefa de finalização do envio, o servidor pode acionar a transição **Reativar com registro de movimento.** O processo será encaminhado para a tarefa de análise e nos autos o movimento de reativação será lançado.
+
