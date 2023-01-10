@@ -7,7 +7,7 @@ A remessa é uma das tarefas em que mais ocorrem erros no sistema PJE, isso porq
 
 Vários erros estão devidamente tratados pelo sistema e retornam uma mensagem clara para o usuário, o que permite a correção pelo próprio servidor ou pelo administrador local, sem a necessidade de abertura de chamado no TSE. Na sequência, vamos apresentar os principais erros e as soluções.
 
-+ CEP 
++ CEP
 Esse erro aparece quando alguma das partes do processo está com o CEP inválido ou em branco.
 Para correção, basta ir ao menu dos autos processuais, na opção retificar autuação, aba partes, dentro das partes verificar a aba endereço e conferir o CEP de todas as partes e advogados, procedendo às correções necessárias.
 Feito isso, é preciso deletar a remessa (na aba processo) e fazer nova tentativa de envio.
@@ -43,4 +43,5 @@ Feito isso, é preciso deletar a remessa (na aba processo) e fazer nova tentativ
 Quando se tenta remeter um processo sem que tenha sido elaborado ou juntado algum documento na instância, o erro “Não foram encontrados novos documentos processuais” impede o envio. A solução consiste na elaboração de algum documento. Como sugestão, pode ser incluída uma certidão de remessa.
 Feito isso, é preciso deletar a remessa (na aba processo) e fazer nova tentativa de envio.
 
-Além destes erros tratados, existem casos em que a remessa é concluída com falhas, ou ainda, situações em que aparentemente a remessa foi feita, mas o processo não chegou ao destino. Na maior parte das vezes uma nova tentativa de remessa resolve o problema, na sequência, vamos abordar as formas de correção para estes casos.
+{{% notice tip %}}
+Além destes erros tratados, existem casos em que a remessa é concluída com falhas, ou ainda, situações em que aparentemente a remessa foi feita, mas o processo não chegou ao destino. Na maior parte das vezes uma nova tentativa de remessa resolve o problema, na sequência, vamos abordar as formas de correção para estes casos.{{% /notice %}}
