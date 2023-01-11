@@ -52,4 +52,5 @@ Além disso, a permissão para o painel deve ser também configurada por meio do
 
 Sobre essas duas funcionalidades, a liberação do assessor de plenário só é necessária quando se usa o painel do púlpito.
 
-Há um erro conhecido em processos migrados. Os documentos não aparecem na aba para selecionar documentos para acórdão, e a orientação para a TI é ajustar o nr_instancia do client.tb_processo_trf para o mesmo ds_instancia do core.tb_processo_documento. A migração tem que ser também ajustada para preencher esse campo e o problema deixar de ocorrer (a solução, nestes casos, depende de abertura de chamado).
+{{% notice warning %}}
+Há um erro conhecido em processos migrados. Os documentos não aparecem na aba para selecionar documentos para acórdão, e a orientação para a TI é ajustar o nr_instancia do client.tb_processo_trf para o mesmo ds_instancia do core.tb_processo_documento. A migração tem que ser também ajustada para preencher esse campo e o problema deixar de ocorrer (a solução, nestes casos, depende de abertura de chamado).{{% /notice %}}
