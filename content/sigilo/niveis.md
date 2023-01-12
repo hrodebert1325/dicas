@@ -3,6 +3,7 @@ title: "Níveis de sigilo"
 date: 2022-11-29T16:31:40-03:00
 ---
 
+{{% /tab %}}
 {{% tab name="ZONAS" %}}
 
 Para as Zonas Eleitorais, em razão do menor número de papeis disponíveis para os usuários, foram fixados três níveis de acesso com os respectivos visualizadores:
@@ -22,16 +23,14 @@ NÍVEL DE ACESSO CINCO:
 •	juiz eleitoral;
 •	polo ativo e seus representantes.
 
+{{% /tab %}}
 {{% tab name="TREs" %}}
 
 Aguardar regulamentação.
 
 {{% /tab %}}
-
 {{% tab name="TSE" %}}
 
 Aguardar regulamentação.
-
 {{% /tab %}}
-
 {{< /tabs >}}
