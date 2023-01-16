@@ -8,15 +8,11 @@ Havendo a necessidade de se alterar o nível de segredo do processo, é necessá
  
 A alteração do nível de acesso será possível independentemente do valor do nível de acesso configurado na competência classe x assunto, e os níveis disponíveis para edição são limitados ao nível do usuário. Caso o processo tenha um nível maior que o do usuário (usuário pode visualizar os níveis porque foi incluído como visualizador), o usuário não poderá alterar o nível do processo.
 
+Caso o processo gere nível 5 de segredo de justiça, ele entrará na tarefa **Atribuir visualização de processo** e só ficará visível para o papel de magistrado. A tarefa servirá para que o magistrado saiba que um processo de segredo 5 foi peticionado e, conforme a necessidade, possa incluir visualizadores.
+
 {{% notice note %}}
 A simples alteração do nível de sigilo do processo não fará com que o visualizador perca tal permissão. Para que isso ocorra será necessária a retirada da visualização.
 {{% /notice %}}
-
-Caso o processo gere nível 5 de segredo de justiça, ele entrará na tarefa **Atribuir visualização de processo** e só ficará visível para o papel de magistrado. A tarefa servirá para que o magistrado saiba que um processo de segredo 5 foi peticionado e, conforme a necessidade, possa incluir visualizadores.
-
-
-
-
 
 Regras importantes:
 + O usuário somente consegue alterar o nível de segredo do processo se os níveis de segredo de justiça do processo e o nível de acesso do usuário forem compatíveis, ou seja, nível do usuário maior ou igual ao nível do processo; 
