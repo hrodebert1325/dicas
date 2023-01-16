@@ -12,4 +12,4 @@ A alteração do nível de acesso será possível independentemente do valor do 
 A simples alteração do nível de sigilo do processo não fará com que o visualizador perca tal permissão. Para que isso ocorra será necessária a retirada da visualização.
 {{% /notice %}}
 
-Caso o processo gere nível 5 de segredo de justiça, ele entrará na tarefa Atribuir visualização de processo e só ficará visível para o papel de magistrado. A tarefa servirá para que o magistrado saiba que um processo de segredo 5 foi peticionado e, conforme a necessidade, possa incluir visualizadores.
+Caso o processo gere nível 5 de segredo de justiça, ele entrará na tarefa **Atribuir visualização de processo** e só ficará visível para o papel de magistrado. A tarefa servirá para que o magistrado saiba que um processo de segredo 5 foi peticionado e, conforme a necessidade, possa incluir visualizadores.
