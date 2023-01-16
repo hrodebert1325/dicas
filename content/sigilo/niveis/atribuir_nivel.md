@@ -19,3 +19,7 @@ Assim, quando uma classe é considerada pública (prestação de contas, por exe
 {{% notice warning %}}
 Ainda que a combinação classe X assunto tenha configurada o nível 5 como padrão, o processo protocolado naquela combinação só será sigiloso se o usuário protocolador assim o solicitar (é necessário atribuir sigilo ao processo, após a atribuição do sigilo é que o sistema o classifica em níveis, conforme a configuração).
 {{% /notice %}}
+
+Regras importantes:
++ O usuário que peticiona não escolhe o nível de segredo do processo, isso é configurado pelo administrador do sistema, nos termos descritos linhas acima;
++ Para que ao processo seja atribuído o nível de segredo que se deseja, é necessário escolher adequadamente a classe e o assunto processual.
