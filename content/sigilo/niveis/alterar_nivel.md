@@ -2,7 +2,7 @@
 title: "Como alterar níveis de sigilo dos processos já distribuídos"
 date: 2023-01-16T10:49:43-03:00
 menuTitle: "Alterar nível"
-weight: 2
+weight: 3
 ---
 Havendo a necessidade de se alterar o nível de segredo do processo, é necessário acessar os autos digitais. No menu ao lado direito, selecionar a opção **segredo/sigilo,** em seguida **opções** e **alterar o nível de acesso.** A opção também é acessível no ícone em formato de olho, disponibilizado na barra dos autos digitais.
  
