@@ -8,4 +8,6 @@ Para que o nome da parte de processos sigilosos não seja exposto em movimentos 
 
 Como administrador, pesquise pela opção **Tipo de complemento (Configurações –  Tabelas Judiciais – Movimentações –  Complementos – Tipos).** A tela de configuração dos tipos de complementos será exibida, pesquise, no campo Nome, por nome_da_parte. 
 
-Clique no ícone de edição (lápis) e verifique como está o campo Expressão de busca. O valor correto é #{processoParteUtils.obterPartesProcesso(tramitacaoProcessualService.recuperaProcesso())}.
+Clique no ícone de edição (lápis) e verifique como está o campo Expressão de busca.
+
+O valor correto é #{processoParteUtils.obterPartesProcesso(tramitacaoProcessualService.recuperaProcesso())}.
