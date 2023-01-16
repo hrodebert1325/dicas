@@ -28,13 +28,13 @@ NÍVEL DE ACESSO CINCO:
 
 {{% tab name="TREs" %}}
 
-No PJe 2G os administradores locais de cada TRE são responsáveis por essa configuração.
+Aguardar regulamentação.
 
 {{% /tab %}}
 
 {{% tab name="TSE" %}}
 
-No PJe do TSE essa configuração é feita pela ASPJe e hoje (consulta efetuada em novembro de 2022) está da seguinte maneira:
+Aguardar regulamentação.
 
 {{% /tab %}}
 
