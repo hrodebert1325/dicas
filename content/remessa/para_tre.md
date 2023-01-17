@@ -1,6 +1,7 @@
 ---
 title: "Remeter para o TRE"
 date: 2022-11-29T16:29:01-03:00
+weight: 2
 ---
 
 **Remeter processo para o TRE** é uma tarefa exclusiva do 1º grau e deve ser utilizada para realizar a remessa de um processo da Zona Eleitoral para o TRE, independente de se o processo já esteve ou não na instância de destino (2º grau).

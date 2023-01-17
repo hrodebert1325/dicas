@@ -1,6 +1,7 @@
 ---
 title: "Correção de erros"
 date: 2022-11-29T16:29:52-03:00
+weight: 6
 ---
 
 A remessa é uma das tarefas em que mais ocorrem erros no sistema PJE, isso porque ela faz uma série de validações na instância de origem e na instância de destino.

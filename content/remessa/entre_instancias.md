@@ -1,6 +1,7 @@
 ---
 title: "Remessa entre instâncias"
 date: 2022-11-29T16:28:40-03:00
+weight: 1
 ---
 
 A **Remessa para outra instância** é uma tarefa exclusiva do PJE do 2º grau e deve ser utilizada quando se objetiva enviar um processo que tenha iniciado no TRE, para o TSE. Deve ser utilizada, também, quando o processo foi iniciado físico na Zona Eleitoral, migrado no TRE, e precisa descer para o 1º grau.
