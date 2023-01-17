@@ -1,7 +1,7 @@
 ---
 title: "Anexos"
 date: 2022-11-23T17:56:32-03:00
-weight: 1
+weight: 3
 ---
 
 Ao elaborar documentos é possível fazer a juntada de anexos. O sistema permite o envio de até 40 arquivos por vez.

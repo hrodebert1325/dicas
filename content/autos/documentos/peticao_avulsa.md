@@ -1,7 +1,7 @@
 ---
 title: "Fluxo de petição avulsa"
 date: 2022-11-23T17:56:19-03:00
-weight: 6
+weight: 2
 menuTitle: "Petição avulsa"
 ---
 

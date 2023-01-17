@@ -1,7 +1,7 @@
 ---
 title: "Documentos não lidos"
 date: 2022-11-23T17:56:40-03:00
-weight: 2
+weight: 4
 ---
 
 Esse é um controle que sinaliza para o usuário interno que novos documentos foram incluídos por usuário externo:

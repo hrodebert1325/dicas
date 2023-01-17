@@ -1,7 +1,7 @@
 ---
 title: "Minutar em lote"
 date: 2022-11-23T17:58:00-03:00
-weight: 4
+weight: 7
 ---
 
 As tarefas de construção de documentos, como **Minutar ato** ou **Elaborar documentos**, podem ser executadas individualmente ou em lote (mais de um processo por vez).
