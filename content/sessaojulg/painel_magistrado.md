@@ -1,6 +1,7 @@
 ---
 title: "Painel do magistrado"
 date: 2022-11-29T16:30:45-03:00
+weight: 2
 ---
 
 + Orientações gerais sobre o painel do Magistrado na Sessão

@@ -1,6 +1,7 @@
 ---
 title: "Painel do secretário da sessão"
 date: 2022-11-29T16:30:58-03:00
+weight: 3
 ---
 
 Se o magistrado tiver liberado seu documento para visualização por meio da opção respectiva na tarefa e o parâmetro “pje:sessao:ocultarVotosAntecipadosNaoMagistrado” estiver marcado como false o voto/documentos serão exibidos para o Assessor de plenário.
