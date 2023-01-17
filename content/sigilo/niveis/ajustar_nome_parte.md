@@ -2,7 +2,7 @@
 title: "Como ajustar o tipo de complemento “nome_da_parte” para processos sigilosos"
 date: 2023-01-16T10:49:43-03:00
 menuTitle: "Ajustar complemento de movimentação"
-weight: 5
+weight: 4
 ---
 Para que o nome da parte de processos sigilosos não seja exposto em movimentos que utilizam esse complemento, há uma configuração que deve ser feita.
 
