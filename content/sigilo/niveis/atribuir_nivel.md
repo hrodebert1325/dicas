@@ -2,7 +2,7 @@
 title: "Como atribuir níveis de sigilo aos processos"
 date: 2023-01-16T10:49:43-03:00
 menuTitle: "Atribuir nível"
-weight: 1
+weight: 2
 ---
 A atribuição dos níveis de sigilo depende de configuração realizada pelo administrador do sistema, previamente à entrada do processo no PJe.
 

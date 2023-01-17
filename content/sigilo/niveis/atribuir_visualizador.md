@@ -2,7 +2,7 @@
 title: "Como atribuir visualizadores"
 date: 2023-01-16T10:49:43-03:00
 menuTitle: "Atribuir visualizador"
-weight: 3
+weight: 4
 ---
 Na tarefa em que o magistrado indica qual servidor poderá visualizar o processo, ele também pode, a qualquer tempo, atribuir visualização para o polo passivo e/ou outra parte que tenha ingressado posteriormente na relação jurídica processual (terceiros interessados, por exemplo).
 
