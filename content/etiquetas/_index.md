@@ -11,11 +11,13 @@ pre = "<b>11. </b>"
 # Etiquetas
 
 + Definição
++
 Desde a versão 2.0 do PJe as etiquetas foram incluídas como um recurso para facilitar a organização dos processos nas unidades (localizações).
 
 Com elas, os usuários conseguem “marcar” os processos, agrupando-os de forma a acessá-los mais rapidamente de acordo com critérios estabelecidos por eles mesmos. É um recurso exclusivo do painel do usuário interno (servidores e magistrados) ou seja, do painel de tarefas.
 
 + Papel para cadastrar etiquetas
+
 A permissão para cadastrar etiquetas é um recurso que pode ser atribuído a um papel. Para que um perfil tenha a permissão de criar etiquetas, ele precisa ter o recurso Página Painel/Organização do Painel (Caixas) a ele associado.
 
 Como os papéis funcionam de forma hierárquica (onde o papel hierarquicamente superior herda recursos e papéis atribuídos ao papel inferior), todos os papéis acima do que tiver esse recurso associado também terão permissão para criar etiquetas.
