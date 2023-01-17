@@ -1,6 +1,7 @@
 ---
 title: "Informações gerais"
 date: 2022-11-29T16:31:34-03:00
+weight: 1
 ---
 
 Os atos processuais são, em regra, públicos. Tal publicidade é determinada pelo art. 5º, LX da Constituição Federal, que já prevê, também a possibilidade do sigilo em casos excepcionais. O Código de Processo Civil (art. 189) regulamente estes casos e, na justiça eleitoral, temos a Resolução TSE n. 23.326/2010.
