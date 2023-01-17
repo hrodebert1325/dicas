@@ -1,6 +1,7 @@
 ---
 title: "Recursos e etiquetas"
 date: 2022-11-29T16:26:42-03:00
+weight: 9
 ---
 
 Quando um caderno processual é criado a partir de um processo, as etiquetas do processo principal são replicadas.

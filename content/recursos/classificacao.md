@@ -1,6 +1,7 @@
 ---
 title: "Classificação"
 date: 2022-11-29T16:25:47-03:00
+weight: 3
 ---
 
 O primeiro passo no registro do recurso é a classificação. Nessa etapa, serão informados o documento principal do registro e também se o recurso foi interposto para o processo originário ou para um outro recurso (caso já tenham sido registrados recursos para esse processo anteriormente).

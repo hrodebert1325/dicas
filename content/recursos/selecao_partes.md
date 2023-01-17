@@ -1,6 +1,7 @@
 ---
 title: "Seleção das partes"
 date: 2022-11-29T16:26:17-03:00
+weight: 6
 ---
 
 O terceiro passo permite ao usuário informar as partes do recurso:

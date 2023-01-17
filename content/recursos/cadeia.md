@@ -1,6 +1,7 @@
 ---
 title: "Cadeia recursal"
 date: 2022-11-29T16:25:57-03:00
+weight: 4
 ---
 
 O segundo passo no registro do recurso permite ao usuário confirmar como ficou a cadeia recursal e alterar o órgão julgador de distribuição do recurso.

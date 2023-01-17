@@ -1,6 +1,7 @@
 ---
 title: "Classes"
 date: 2022-11-29T16:25:24-03:00
+weight: 1
 ---
 
 Os recursos internos, apesar de serem interpostos por meio de documentos, são mapeados diretamente em classes processuais disponíveis nacionalmente no Sistema de Gestão de Tabelas Processuais Unificadas.

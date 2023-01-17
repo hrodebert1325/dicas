@@ -1,6 +1,7 @@
 ---
 title: "Finalização do registro"
 date: 2022-11-29T16:26:25-03:00
+weight: 7
 ---
 
 No quarto e último passo, o usuário pode verificar o resumo das informações do recurso e selecionar a finalização do registro:

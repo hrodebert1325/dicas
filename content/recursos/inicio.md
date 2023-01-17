@@ -1,6 +1,7 @@
 ---
 title: "Início do procedimento Recursal"
 date: 2022-11-29T16:25:39-03:00
+weight: 2
 ---
 
 O recurso é interposto quando o usuário externo (advogado, procurador, parte) inclui um novo documento expondo seu pleito. O documento, se classificado corretamente pelo usuário, terá o tipo correspondente à classe recursal interna.

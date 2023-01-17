@@ -2,6 +2,7 @@
 title: "Tramitação dos recursos e do processo originário"
 date: 2022-11-29T16:26:34-03:00
 menuTitle: "Tramitação"
+weight: 8
 ---
 
 Os recursos tramitam internamente de forma independente do processo originário.

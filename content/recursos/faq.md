@@ -1,6 +1,7 @@
 ---
 title: "Dúvidas Frequentes"
 date: 2022-11-29T16:26:58-03:00
+weight: 11
 ---
 
 1) O DJe e SJUR recuperarão os dados dos cadernos processuais?

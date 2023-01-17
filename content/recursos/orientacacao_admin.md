@@ -1,6 +1,7 @@
 ---
 title: "Orientações para administradores"
 date: 2022-11-29T16:27:17-03:00
+weight: 12
 ---
 
 + O escopo das alterações dentro do PJe foi delimitado pela pendência Jira PJeII-21789.

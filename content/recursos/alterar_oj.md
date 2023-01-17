@@ -1,6 +1,7 @@
 ---
 title: "Alteração do órgão Julgador"
 date: 2022-11-29T16:26:08-03:00
+weight: 5
 ---
 
 Em alguns casos, o julgamento do recurso terá como relator um órgão julgador diferente do relator originário do processo. No TSE, por exemplo, em Recursos Extraordinários, a competência para julgamento do recurso é da presidência.

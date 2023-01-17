@@ -1,6 +1,7 @@
 ---
 title: "Regras negociais"
 date: 2022-11-29T16:27:29-03:00
+weight: 13
 ---
 
 + Caso não haja recursos protocolados, mesmo com a mudança estrutural, o sistema deve se comportar da mesma maneira que se comportava antes desta pendência. 

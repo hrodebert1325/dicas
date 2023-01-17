@@ -1,6 +1,7 @@
 ---
 title: "Tópicos em destaque"
 date: 2022-11-29T16:26:51-03:00
+weight: 10
 ---
 
 + A consulta pública recupera sempre o processo originário, exibindo as informações de movimento e documentos dos cadernos recursais conforme regras já existentes relacionadas à publicidade das informações. 
