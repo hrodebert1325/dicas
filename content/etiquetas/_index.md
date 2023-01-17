@@ -90,4 +90,4 @@ As inserções e exclusões de etiquetas em ato posterior à criação do cadern
 
 + Automação com etiquetas
 
-Para automação avançada utilizando etiquetas, assista ao vídeo de capacitação que o CNJ disponibilizou no YouTube (link: https://www.youtube.com/watch?v=GOLyiBMRKwo&feature=youtu.be)
+Para automação avançada utilizando etiquetas, assista ao vídeo de capacitação que o CNJ disponibilizou no YouTube (link: [https://www.youtube.com/watch?v=GOLyiBMRKwo&feature=youtu.be](https://www.youtube.com/watch?v=GOLyiBMRKwo&feature=youtu.be))
