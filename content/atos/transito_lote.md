@@ -5,7 +5,7 @@ weight: 1
 ---
 A registro do trânsito em julgado pode ser realizada de forma individual ou em lote. 
 
-Para realizar a atividade de forma isolada, a partir da tarefa **Verificar pendências,** utilize a opção encaminhar para, e remeta o processo para a tarefa **Registrar trânsito em julgado”.**
+Para realizar a atividade de forma isolada, a partir da tarefa **Verificar pendências,** utilize a opção encaminhar para, e remeta o processo para a tarefa **Registrar trânsito em julgado.**
 
 Para registrar o trânsito de vários processos ao mesmo tempo,  a partir da tarefa **Verificar pendências,** selecione os processo que deseja movimentar e utilize a opção **movimentar em lote,** movimentando-os para a tarefa **Registrar trânsito em julgado”.**
 
