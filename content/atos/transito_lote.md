@@ -13,7 +13,7 @@ Feito isso, haverá uma tarefa denominada **Informar data de trânsito em julgad
 
 A data a ser informada no campo **Data de trânsito em julgado em lote** é a data efetiva do trânsito em julgado, a que irá aparecer no respectivo movimento na árvore dos processos. 
 
-{{% notice warning %}}
+{{% notice tip %}}
 Se o campo **Data de trânsito em julgado em lote** for preenchido, a data será utilizada para todos os processos do lote.
 {{% /notice %}}
 
