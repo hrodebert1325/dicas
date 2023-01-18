@@ -18,6 +18,7 @@ disableBreadcrumb = false
 disableNextPrev = false
 disableLandingPageButton = true
 disableMermaid = false
+disableInlineCopyToClipBoard = false
 ordersectionsby = "weight"
 customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
 titleSeparator = "::"
