@@ -3,7 +3,7 @@ title: "Registrar trânsito"
 date: 2023-01-17T19:20:20-03:00
 weight: 1
 ---
-O registro do trânsito em julgado pode ser realizada de forma individual ou em lote. 
+O registro do trânsito em julgado pode ser realizado de forma individual ou em lote. 
 
 Para realizar a atividade de forma isolada, a partir da tarefa **Verificar pendências,** utilize a opção encaminhar para, e remeta o processo para a tarefa **Registrar trânsito em julgado.**
 
