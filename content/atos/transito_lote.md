@@ -31,4 +31,4 @@ Ao clicar em Cancelar, os processos ficarão na mesma tarefa, podendo ser assina
 O botão MINUTAR E MOVIMENTAR PROCESSOS é o padrão da funcionalidade de minuta em lote e não pode ser desabilitado. Mas, se utilizado aqui, provocará erro na realização da tarefa. Ou seja, o sistema irá avisar: “Existe(m) processo(s) com minuta em aberto, ao minutar em lote o texto desta minuta será perdido. Deseja continuar?”
 {{% /notice %}}
 
-Concluída a assinatura, os processos voltam para a tarefa verificar pendências, onde tudo começou.
+Concluída a assinatura, os processos voltam para a tarefa **Verificar pendências.**
