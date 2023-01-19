@@ -31,7 +31,7 @@ O Assessor de plenário pode liberar o voto/documentos para que sejam visualizad
 
 Se o magistrado tiver liberado seu documento para visualização por meio da opção respectiva na tarefa. Neste caso, voto/documentos serão exibidos no **Púlpito de sustentação oral.**
 
-+ Orientação passada para o TSE quando foram disponilizados os painéis:
+## Orientação passada para o TSE quando foram disponilizados os painéis:
 
 De ordem da assessora-chefe da Assessoria do PJe, informamos que a versão disponibilizada hoje no TSE, 18 de maio de 2020, contempla um painel aos advogados e ao ministério público para acompanhamento das sessões virtuais e por videoconferência. Para as sessões iniciadas, virtuais ou não, o painel da OAB e do MP exibe documentos de relatório, voto e ementa produzidos pelos gabinetes, desde que liberados para visualização.
 
@@ -39,7 +39,7 @@ Conforme já ocorria antes dessa melhoria, a liberação de visualização dos d
 
 A liberação é por documento, ou seja, o gabinete pode escolher liberar apenas o relatório, assim como pode escolher não liberar documento algum.
 
-+ Orientação passada para os TREs quando foram disponilizados os painéis:
+## Orientação passada para os TREs quando foram disponilizados os painéis:
 
 A versão 2.0.0.0.49.3 do PJe nos regionais e no TSE traz uma melhoria solicitada pela OAB e pelo ministério público para que advogados e MP possam enxergar os documentos de voto, relatório e ementa, desde que liberados pelo gabinete, a partir das opções já existentes “Liberar relatório”, “Liberar ementa” e Liberar voto”, disponíveis nas tarefas de “Aguarda sessão de julgamento” inclusive para julgamento virtual. 
 
