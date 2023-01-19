@@ -7,10 +7,10 @@ weight: 15
 
 As principais alterações serão relatadas por tabelas alteradas:
 
-TB_PROCESSO
+## TB_PROCESSO
 + A tabela tem a informação da última capa registrada em tb_processo_trf (cd_processo_status = ‘D’) relativa a esse processo.
 
-TB_PROCESSO_TRF
+## TB_PROCESSO_TRF
 + A tabela contém o registro do processo originário (id_processo), referenciando a tabela tb_processo (sempre preenchido);
 + O registro da capa principal do processo (id_processo_trf_principal), referenciando a própria tb_processo_trf (sempre preenchido);
 + O registro da capa pai (id_processo_trf_pai), que pode existir ou não. Só existirá quando for um recurso do recurso;
@@ -19,7 +19,7 @@ TB_PROCESSO_TRF
 + Um identificador de recurso interno (in_recurso_interno);
 + A identificação da situação do processo (ds_nome_situacao_processual). As situações já existiam antes, mas foram replicadas aqui para deixar a consulta mais rápida
 
-TB_PROC_PARTE_EXPEDIENTE
+## TB_PROC_PARTE_EXPEDIENTE
 + A tabela tem o identificador da capa principal, para otimizar os joins nas consultas de intimações para usuários externos (id_processo_trf_principal); 
 + As triggers que alimentam tabelas de otimização de consultas (tb_cabecalho_processo e tb_processo_tarefa) foram alteradas para contemplar todas as alterações estruturais das tabelas de origem. As respectivas tabelas, assim como a tabela de documentos e a tabela de movimentos, foram alteradas para conter identificação da capa a que se refere o registro;
 + As tabelas tb_processo_instance e tb_proc_localizacao_ibpm foram alterados para conter a coluna id_processo_trf, correspondente ao caderno processual a que se refere o registro; 
