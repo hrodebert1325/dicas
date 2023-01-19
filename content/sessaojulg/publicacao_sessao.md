@@ -18,7 +18,7 @@ Por meio dessa mesma tela, o usuário pode publicar em sessão decisões monocr�
 
 Depois de tudo finalizado, o PJe gera uma intimação para as partes envolvidas de acordo com o que foi preenchido, com os parâmetros configurados, ou seja:
 
-+ pje:intimarEmSessaoColegiada:fiscalDaLei - Notifica que o fiscal da lei será intimado nas publicações em sessão de decisões colegiadas
-+ pje:intimarEmSessaoMonocratica:fiscalDaLei - Notifica que o fiscal da lei será intimado nas publicações em sessão de decisões monocráticas
++ pje:intimarEmSessaoColegiada:fiscalDaLei - Notifica que o fiscal da lei será intimado nas publicações em sessão de decisões colegiadas.
++ pje:intimarEmSessaoMonocratica:fiscalDaLei - Notifica que o fiscal da lei será intimado nas publicações em sessão de decisões monocráticas.
 
 O Ministério Público, como fiscal da lei, pode não ser intimado (de forma automática), salvo pela própria publicação.
