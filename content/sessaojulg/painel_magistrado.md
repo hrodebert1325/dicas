@@ -4,7 +4,7 @@ date: 2022-11-29T16:30:45-03:00
 weight: 2
 ---
 
-+ Orientações gerais sobre o painel do Magistrado na Sessão
+## Orientações gerais sobre o painel do Magistrado na Sessão
 
 No menu principal do PJe (ícone com três barrinhas horizontais no canto superior esquerdo), deve-se clicar na opção **Painel - Painel do magistrado na sessão.**
 
@@ -22,7 +22,7 @@ Além das opções de voto, também estão disponíveis **Enviar para pauta pres
 
 É válido ressaltar que, após o registro de um pedido de vista, os outros gabinetes não têm mais disponíveis as opções para retirada de julgamento ou envio para a pauta presencial. Caso a vista tenha sido lançada de forma equivocada, o Assessor de plenário deverá atuar colocando o processo em julgamento novamente.
 
-+ Visualização de Documentos da Sessão
+## Visualização de Documentos da Sessão
 
 No PJe da Justiça Eleitoral, relatório, voto e ementa, são construídos na tarefa **Minutar relatório, voto e ementa** pelo relator do processo.
 
