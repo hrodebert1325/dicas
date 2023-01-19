@@ -4,7 +4,7 @@ date: 2022-11-29T16:28:00-03:00
 weight: 14
 ---
 
-## FLX_REGISTRAR_RECURSO 
+## FLX_REGISTRAR_RECURSO ##
 + Nas tarefas Registrar recurso e Registrar recurso - Corregedoria, alterar as variáveis que estão nas duas para que referenciem o seguinte:Processo_Fluxo_Recurso_registrarRecurso no lugar de Processo_Fluxo_documento_recurso_registrarRecurso
 + Incluir no evento Criar tarefa das tarefas Registrar recurso e Registrar recurso - Corregedoria a ação #{taskInstanceUtil.setFrameDefaultTransition(‘Finalizar fluxo’)}
 
