@@ -8,45 +8,45 @@ A remessa é uma das tarefas em que mais ocorrem erros no sistema PJE, isso porq
 
 Vários erros estão devidamente tratados pelo sistema e retornam uma mensagem clara para o usuário, o que permite a correção pelo próprio servidor ou pelo administrador local, sem a necessidade de abertura de chamado no TSE. Na sequência, vamos apresentar os principais erros e as soluções.
 
-+ CEP
+## CEP
 
 Esse erro aparece quando alguma das partes do processo está com o CEP inválido ou em branco.
 Para correção, basta ir ao menu dos autos processuais, na opção retificar autuação, aba partes, dentro das partes verificar a aba endereço e conferir o CEP de todas as partes e advogados, procedendo às correções necessárias.
 Feito isso, é preciso deletar a remessa (na aba processo) e fazer nova tentativa de envio.
 
-+ Tipo de Documento
+## Tipo de Documento
 
 Esse erro acontece quando existe, no processo a ser remetido, um documento cujo tipo é inexistente na instância de destino. 
 Para correção, deve-se, primeiro, verificar qual tipo de documento apresenta erro, pesquisando o número do id do documento na árvore processual. 
 Delete a remessa e tramite o processo para a tarefa Reclassificar documentos, depois altere o tipo de documento para uma opção diferente. 
 Feito isso, faça nova tentativa de remessa.
 
-+ Falta de vinculação de Ente ou Autoridade
+## Falta de vinculação de Ente ou Autoridade
 
 Esse erro acontece porque o ente ou autoridade, quando criado, foi vinculado a uma pessoa jurídica cadastrada no sistema sem CNPJ.
 Para correção vá em **Configuração/Pessoa/Ente ou autoridade** do PJE da instância de origem e, após localizar a autoridade informada no erro, faça a devida vinculação na aba Formulário. Escolha uma pessoa jurídica que possua CNPJ.
 Outra opção, é corrigir o cadastro da pessoa jurídica vinculada ao ente ou autoridade, incluindo o CNPJ. Isto pode ser feito em **Configuração/Pessoa/Pessoa Jurídica.**
 Feito isso, é preciso deletar a remessa (na aba processo) e fazer nova tentativa de envio.
 
-+ Expedientes abertos
+## Expedientes abertos
 
 Esse erro acontece quando o processo que está sendo remetido possui algum expediente em aberto. Normalmente o expediente que ainda está aberto é sem prazo.
 Para correção, delete a remessa e tramite o processo para a tarefa Fechar expediente manualmente. Nela, os expedientes abertos deverão ser fechados.
 Caso, ao realizar o procedimento descrito acima, não apareça nenhum expediente em aberto, vá no menu **Processo/Pesquisar/Consulta de prazos** e pesquise pelo número do processo e mais algum critério. 
 Feito isso, faça nova tentativa de remessa.
 
-+ Cadastro de pessoa
+## Cadastro de pessoa
 
 Esse erro acontece quando, na hora da remessa, por alguma instabilidade da integração com o sistema da Receita Federal, uma parte ou pessoa que assinou algum documento no processo, não consegue ser cadastrada automaticamente na instância de destino.
 Para correção, basta que o Administrador do Sistema do PJE da instância de destino faça este cadastramento no menu **Configuração/Pessoa/Física** ou **Jurídica,** conforme o caso. Na opção pré-cadastro, faça o cadastro manual do CPF ou CNPJ que constar no erro e faça nova tentativa de remessa.
 
-+ Documento de identificação
+## Documento de identificação
 
 Esse erro acontece quando algum documento de identificação de uma das partes do processo está em branco. 
 Para correção, retifique a atuação (aba partes), selecionando cada uma das partes e verificando, na aba documentos de identificação, os documentos constantes, procedendo às correções necessárias (verificar inclusive advogados).
 Feito isso, é preciso deletar a remessa (na aba processo) e fazer nova tentativa de envio.
 
-+ Ausência de novos documentos processuais:
+## Ausência de novos documentos processuais:
 
 Quando se tenta remeter um processo sem que tenha sido elaborado ou juntado algum documento na instância, o erro “Não foram encontrados novos documentos processuais” impede o envio. A solução consiste na elaboração de algum documento. Como sugestão, pode ser incluída uma certidão de remessa.
 Feito isso, é preciso deletar a remessa (na aba processo) e fazer nova tentativa de envio.
@@ -60,7 +60,7 @@ Processo que é remetido (na instância de origem da remessa) precisa:
 + migrar para uma tarefa estacionária (manter processos expedidos, aguardando apreciação de outra instância, etc.);
 + ter movimentos de baixa e envio;
 + estar bloqueado (aquele aviso “Este processo foi remetido e por isso não pode ser movimentado”).
-+
+
 Processo que é recebido (na instância de destino da remessa) precisa:
 
 SE FOR PRIMEIRA REMESSA
@@ -78,13 +78,13 @@ Se não há documentos produzidos na instância de origem, não adianta tentar a
 
 Nos próximos tópicos vamos ensinar como ajustar localmente cada um dos pontos acima.
 
-+ Remessa concluída, mas o processo não foi para tarefa estacionária
+## Remessa concluída, mas o processo não foi para tarefa estacionária
 
 Se o processo estiver bloqueado (com o aviso “Este processo foi remetido e por isso não pode ser movimentado”), ele precisa ser desbloqueado pela tarefa **Iniciar digitalização** e depois precisa ser utilizada a tarefa **Bloquear processo que está em outra instância,**, conforme explicação abaixo, em tópico específico.
 
 Se o processo estiver desbloqueado, basta utilizar a tarefa **Bloquear processo que está em outra instância,**, conforme explicação abaixo, em tópico específico.
 
-+ Remessa concluída, mas o processo não teve os movimentos de baixa
+## Remessa concluída, mas o processo não teve os movimentos de baixa
 
 Algumas vezes pode ocorrer de o processo ser remetido à outra instância, mas os movimentos de baixa não serem lançados na origem. Nesse caso, o servidor pode fazer o lançamento dos movimentos.
 
@@ -94,7 +94,7 @@ Estando o processo na tarefa de remessa, deve-se selecionar a transição **Regi
 
 A partir desta tarefa, deve-se selecionar **Aguardando apreciação do TRE** ou a tarefa estacionária equivalente no segundo grau para que o processo fique na tarefa de finalização do envio.
 
-+ Remessa concluída sem bloqueio do processo
+## Remessa concluída sem bloqueio do processo
 
 Algumas vezes, apesar de a remessa ser concluída com sucesso (ou usuário vai saber isto verificando na Consulta interna ou pública da instância de destino), o sistema não bloqueia o processo na origem para tramitação e inclusão de documentos. Esse bloqueio é fundamental para que novas informações processuais sejam inseridas apenas na instância onde está ocorrendo a tramitação atual do processo.
 
@@ -106,7 +106,7 @@ Isso fará com que o processo seja tramitado para a tarefa de finalização do e
 
 Importante: em alguns casos as transições mencionadas não estarão disponíveis (nos fluxos de corregedoria, por exemplo, ou quando os processos são mais antigos e estão em fluxos desatualizados) entre em contato com a ASPJe para maiores orientações sobre como proceder em tais situações.
 
-+ Processo não foi atuado na instância de destino ou os documentos produzidos na instância de origem não chegaram, mas o processo ficou bloqueado na origem
+## Processo não foi atuado na instância de destino ou os documentos produzidos na instância de origem não chegaram, mas o processo ficou bloqueado na origem
 
 Nesse caso não houve a remessa. Ainda que, ao analisar o processo apenas na instância de origem, tudo indique que o procedimento foi executado com sucesso.
 
@@ -129,7 +129,6 @@ Em geral o processo estará na tarefa de finalização do envio (tarefa estacion
 Em alguns casos as transições para retirada da tarefa estacionária mencionadas acima não estarão disponíveis (nos fluxos de corregedoria, por exemplo, ou quando os processos são mais antigos e estão em fluxos desatualizados, nestes casos você pode chamar o processo à ordem para tirá-lo da tarefa ou entrar em contato com a ASPJe para maiores orientações sobre como proceder).
 {{% /notice %}}
 
-+ Remessa concluída (os documentos produzidos na instância de origem chegaram) mas o processo não saiu da tarefa estacionária e/ou não foi desbloqueado
+## Remessa concluída (os documentos produzidos na instância de origem chegaram) mas o processo não saiu da tarefa estacionária e/ou não foi desbloqueado
 
 Pode acontecer de um processo retornar de uma outra instância via remessa e os movimentos de reativação não terem sido lançados. Neste caso, a partir da tarefa de finalização do envio, o servidor pode acionar a transição **Reativar com registro de movimento.** O processo será encaminhado para a tarefa de análise e nos autos o movimento de reativação será lançado.
-
