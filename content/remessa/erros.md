@@ -77,7 +77,8 @@ Quando se tenta remeter um processo sem que tenha sido elaborado ou juntado algu
 Feito isso, é preciso deletar a remessa (na aba processo) e fazer nova tentativa de envio.
 
 {{% notice tip %}}
-Além destes erros tratados, existem casos em que a remessa é concluída com falhas, ou ainda, situações em que aparentemente a remessa foi feita, mas o processo não chegou ao destino. Na maior parte das vezes uma nova tentativa de remessa resolve o problema.{{% /notice %}}
+Além destes erros tratados, existem casos em que a remessa é concluída com falhas, ou ainda, situações em que aparentemente a remessa foi feita, mas o processo não chegou ao destino. Na maior parte das vezes uma nova tentativa de remessa resolve o problema. Na sequência você encontra orientações para correção dos erros de remassa não tratados pelo sistema.
+{{% /notice %}}
 
 
 ## Remessa concluída, mas o processo não foi para tarefa estacionária
