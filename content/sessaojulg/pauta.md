@@ -4,7 +4,7 @@ date: 2022-11-29T16:30:31-03:00
 weight: 1
 ---
 
-+ Intimação de pauta na publicação da lista e no fechamento da pauta:
+## Intimação de pauta na publicação da lista e no fechamento da pauta:
 
 A publicação de pauta (última aba na Relação de julgamento) no diário, utiliza a pessoa Destinatário para ciência pública. A intimação não é gerada para pessoas individuais, já que aquele é um aviso geral da sessão que acontecerá. As intimações individuais são geradas no fechamento mesmo (primeira aba da Relação de julgamento), ou via fluxo, em **Preparar ato de comunicação.**
 
@@ -40,7 +40,7 @@ Essas configurações de movimento dizem respeito ao registro final no processo 
 + Municipio. 
 
 
-+ Adiados e pautas anteriores
+## Adiados e pautas anteriores
 
 A aba Adiados e pautas anteriores da Relação de julgamento apresenta processos que já estiveram em outra sessão. O sistema sinaliza isso independente de o processo já ter sido arquivado. Quando for incluído em nova pauta de julgamento, ele deixa de estar nessa aba.
 
