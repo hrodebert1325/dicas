@@ -10,4 +10,12 @@ pre = "<b>14. </b>"
 
 # Recursos Internos
 
+Quando é apresentado um recurso interno (agravo regimental, embargos de declaração, recurso extraordinário, agravo, impugnação ao registro de candidatura e notícia de inelegibilidade) não há alteração na numeração do processo. 
+
+Não obstante, o processamento desses recursos/incidentes é realizado de forma diversa, com diferentes tipos de partes, decisões e julgamentos exclusivos do recurso.
+
+Além disso, é primordial identificar qual a origem do recurso, ou seja, se a parte está recorrendo de uma decisão do processo ou de uma decisão relacionada a outro recurso. 
+
+Neste tópico descreveremos o mecanismo utilizado no PJe para que o registro de recurso seja realizado de forma a permitir o tratamento diferenciado que a interposição recursal requer.
+
 {{% children  %}}
