@@ -21,5 +21,5 @@ Ainda que a combinação classe X assunto tenha configurada o nível 5 como padr
 {{% /notice %}}
 
 Regras importantes:
-+ O usuário que peticiona não escolhe o nível de segredo do processo, isso é configurado pelo administrador do sistema, no tópico [Como atribuir níveis de sigilo aos processos]({{< relref "atribuir_nivel" >}});
++ O usuário que peticiona não escolhe o nível de segredo do processo, isso é configurado pelo administrador do sistema;
 + Para que ao processo seja atribuído o nível de segredo que se deseja, é necessário escolher adequadamente a classe e o assunto processual.
