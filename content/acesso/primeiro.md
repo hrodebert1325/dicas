@@ -1,7 +1,7 @@
 ---
 title: "Primeiro acesso"
 date: 2022-11-21T15:22:12-03:00
-weight: 6
+weight: 2
 ---
 
 Ao acessar o sistema pela primeira vez, é necessário desbloquear as janelas popup do navegador. Para maiores detalhes, verifique as orientações abaixo:

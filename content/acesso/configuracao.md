@@ -1,7 +1,7 @@
 ---
 title: "Configuração do computador e pré-requisitos"
 date: 2022-11-21T15:21:54-03:00
-weight: 5
+weight: 1
 ---
 
 + Ainda que o acesso para usuários previamente cadastrados seja possível com uso de login e senha, usuários externos precisam de um certificado digital válido para poder juntar documentos;
