@@ -12,8 +12,30 @@ menuTitle: "Impedimentos e suspeições"
 
 Para registrar o impedimento deve-se selecionar o magistrado e vincular um documento assinado do processo. Nesse momento, o sistema pede confirmação do registro do impedimento e do documento selecionado.
 
-Feito isto, a lista de magistrados impedidos na tela é atualizada.
+Feito isto, a lista de magistrados impedidos na tela é atualizada:
 
+IMG_IMPEDIMENTO_1
+
+{{< tabs groupId="impedimento_suspeicao" >}}
+
+{{% tab name="ZONAS" %}}
+
+No PJe 1G essa configuração é feita pela ASPJe e hoje (consulta efetuada em novembro de 2022) está da seguinte maneira:
+
+{{% /tab %}}
+
+{{% tab name="TREs" %}}
+
+No PJe 2G os administradores locais de cada TRE são responsáveis por essa configuração.
+
+{{% /tab %}}
+
+{{% tab name="TSE" %}}
+
+No PJe do TSE essa configuração é feita pela ASPJe e hoje (consulta efetuada em novembro de 2022) está da seguinte maneira:
+
+{{% /tab %}}
+{{< /tabs >}}
 
 
 O voto de impedimento proferido também atualiza a lista de magistrados impedidos, sendo todos exibidos nos autos do processo.
