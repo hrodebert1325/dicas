@@ -1,7 +1,7 @@
 ---
 title: "Registrar trânsito"
 date: 2023-01-17T19:20:20-03:00
-weight: 3
+weight: 4
 ---
 O registro do trânsito em julgado pode ser realizado de forma individual ou em lote. 
 
