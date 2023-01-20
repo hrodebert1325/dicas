@@ -1,6 +1,7 @@
 ---
 title: "Pesos processuais"
 date: 2022-11-29T16:21:05-03:00
+weight: 3
 ---
 As regras de distribuição do PJe se baseiam essencialmente na ideia de que cada processo representa uma determinada carga de trabalho, carga essa chamada de peso.
 

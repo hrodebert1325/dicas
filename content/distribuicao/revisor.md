@@ -1,6 +1,7 @@
 ---
 title: "Definir Revisor"
 date: 2022-11-29T16:20:54-03:00
+weight: 2
 ---
 
 Para que o processo tenha o nome do revisor atribuído automaticamente no momento do protocolo, a [classe precisa estar configurada]({{< relref "classes/configuracao" >}}) com a opção exige revisor marcada como sim.
