@@ -1,36 +1,9 @@
 ---
-title: "Correção de erros"
-date: 2022-11-29T16:29:52-03:00
-weight: 6
+title: "Correção de erros de remessa"
+date: 2023-01-20T10:29:52-03:00
+weight: 1
+hidden: true
 ---
-
-A remessa é uma das tarefas em que mais ocorrem erros no sistema PJE, isso porque ela faz uma série de validações na instância de origem e na instância de destino.
-
-A orientação é que toda remessa seja conferida, seja pela consulta interna ou pela consulta pública.
-
-Para saber se uma remessa foi bem sucedida, o processo precisa ser verificado na instância de origem (que fez a remessa) e na de destino (para onde a remessa foi feita), devendo atender as seguintes condições:
-
-Processo que é remetido (na instância de origem da remessa) precisa:
-+ migrar para uma tarefa estacionária (manter processos expedidos, aguardando apreciação de outra instância, etc.);
-+ ter movimentos de baixa e envio;
-+ estar bloqueado (aquele aviso “Este processo foi remetido e por isso não pode ser movimentado”).
-
-Processo que é recebido (na instância de destino da remessa) precisa:
-
-SE FOR PRIMEIRA REMESSA
-+ ser autuado/distribuído.
-
-SE FOR RETORNO PARA A INSTÂNCIA
-+ ter os documentos produzidos na instância de origem;
-+ sair da tarefa estacionária;
-+ ter movimentos de recebimento (ou recebimento e reativação, caso seja um processo que já tenha passado pela instância);
-+ estar desbloqueado.
-
-Com base nos requisitos acima, será possível definir em que instância (se na da origem da remessa ou se na de destino) se deve atuar para tentar corrigir os erros.
-
-Se não há documentos produzidos na instância de origem, não adianta tentar atuar no destino. Por outro lado, uma vez que os documentos produzidos na origem tenham chegado (casos de retorno para a instância), não há que se falar em nova tentativa de remessa.
-
-Vários erros estão devidamente tratados pelo sistema e retornam uma mensagem clara para o usuário, o que permite a correção pelo próprio servidor ou pelo administrador local, sem a necessidade de abertura de chamado no TSE. Nos próximos tópicos vamos ensinar como ajustar localmente os principais erros de remessa.
 
 
 ## CEP
@@ -71,7 +44,7 @@ Esse erro acontece quando algum documento de identificação de uma das partes d
 Para correção, retifique a atuação (aba partes), selecionando cada uma das partes e verificando, na aba documentos de identificação, os documentos constantes, procedendo às correções necessárias (verificar inclusive advogados).
 Feito isso, é preciso deletar a remessa (na aba processo) e fazer nova tentativa de envio.
 
-## Ausência de novos documentos processuais:
+## Ausência de novos documentos processuais
 
 Quando se tenta remeter um processo sem que tenha sido elaborado ou juntado algum documento na instância, o erro “Não foram encontrados novos documentos processuais” impede o envio. A solução consiste na elaboração de algum documento. Como sugestão, pode ser incluída uma certidão de remessa.
 Feito isso, é preciso deletar a remessa (na aba processo) e fazer nova tentativa de envio.
@@ -79,7 +52,6 @@ Feito isso, é preciso deletar a remessa (na aba processo) e fazer nova tentativ
 {{% notice tip %}}
 Além destes erros tratados, existem casos em que a remessa é concluída com falhas, ou ainda, situações em que aparentemente a remessa foi feita, mas o processo não chegou ao destino. Na maior parte das vezes uma nova tentativa de remessa resolve o problema. Na sequência você encontra orientações para correção dos erros de remassa não tratados pelo sistema.
 {{% /notice %}}
-
 
 ## Remessa concluída, mas o processo não foi para tarefa estacionária
 
