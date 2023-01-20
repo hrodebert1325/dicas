@@ -10,5 +10,5 @@ Esta é a versão revisada e atualizada do Dicas PJe, iniciativa da Assessoria d
 
 O objetivo do Dicas é compartilhar conhecimento, possibilitando a padronização de rotinas e a divulgação boas práticas para o uso do PJe.
 
-Este material está em constante construção e evolução. Você é convidado a participar de forma colaborativa. Caso queira contribuir com algum conteúdo, [cliqui aqui e participe!](https://docs.google.com/forms/d/e/1FAIpQLSfxRFWQlGyeRiFW4ZKZQDvc8ofZc44nqFrsyn5m4ll3oR9ffw/viewform?embedded=true)
+Este material está em constante construção e evolução. Você é convidado a participar de forma colaborativa. Caso queira contribuir com algum conteúdo, [clique aqui e participe!](https://docs.google.com/forms/d/e/1FAIpQLSfxRFWQlGyeRiFW4ZKZQDvc8ofZc44nqFrsyn5m4ll3oR9ffw/viewform?embedded=true)
 
