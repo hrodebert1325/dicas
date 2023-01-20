@@ -7,7 +7,7 @@ weight: 6
 {{<table "variaveismodelo">}}
 
 | **Descrição** | **Variável** | **Outras informações** |
-|---|---|---|
+|---|---|:---:|
 | Assuntos do Processo | #{processoTrfHome.instance.assuntoTrfListStr} |  |
 | Cabeçalho do processo com cadeia recursal em siglas | #{processoTrfHome.instance} |  |
 | Cabeçalho do processo com cadeia recursal em siglas dentro da sessão | #{sessaoProcessoDocumentoHome.sessaoPautaProcessoTrf.processoTrf} |  |
