@@ -56,3 +56,24 @@ mark.destaquedicas {
     font-weight: bold;
     text-transform: uppercase;
   }
+
+table.variaveismodelo {
+    overflow-wrap: break-word;
+    table-layout:fixed; 
+    width: 100%;
+}
+
+
+.variaveismodelo > thead > tr > :nth-child(1) {
+    /* background-color: greenyellow; */
+    width:30%;
+}
+
+.variaveismodelo > thead > tr > :nth-child(2) {
+    /* background-color: red; */
+    width:50%;
+}
+
+.variaveismodelo tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
