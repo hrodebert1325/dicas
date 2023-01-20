@@ -14,4 +14,4 @@ Como o início dessa tarefa é resultado de uma configuração no tipo de docume
 
 Quando, ao analisar os autos do processo, o servidor percebe que o documento de petição inserido pelo advogado é um recurso que foi indevidamente classificado, basta que este inicie a tarefa de registro de recurso. Está possibilidade se dá a partir da tarefa **Analisar determinação:**
 
-IMG_RECURSO_2
+![Informações do recurso](/imagens/recurso_2.jpg)

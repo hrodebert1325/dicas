@@ -12,4 +12,4 @@ Sendo assim, o PJe precisa estar com a configuração das classes recursais para
 
 As informações relevantes para o registro do recurso são a classe ter natureza recursal (campo Natureza = RECURSO INTERNO), o tipo de documento inicial deve ser o respectivo recurso e o check box Recursal deve estar marcado. As demais configurações são importantes, mas não são decisivas para a finalidade específica de registro de recursos internos. Na imagem abaixo você observa os campos mencionados:
 
-IMG_RECURSO_1
+![Informações do recurso](/imagens/recurso_1.jpg)

@@ -8,7 +8,7 @@ Em alguns casos, o julgamento do recurso terá como relator um órgão julgador 
 
 Para esses casos, o sistema permite a seleção de um órgão julgador de distribuição do recurso diferente do órgão julgador originário do processo:
 
-IMG_RECURSO_5
+![Informações do recurso](/imagens/recurso_5.jpg)
 
 A possibilidade de ajuste da relatoria no momento do registro do recurso não impede ajustes posteriores, já que o recurso pode ser redistribuído a qualquer tempo, sem que isso resulte na redistribuição do processo originário ou de eventuais outros recursos vinculados.
 

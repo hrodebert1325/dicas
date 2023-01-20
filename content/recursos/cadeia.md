@@ -8,6 +8,6 @@ O segundo passo no registro do recurso permite ao usuário confirmar como ficou 
 
 A **Cadeia recursal** identifica, na forma de siglas ou nomes de classe encadeadas no cabeçalho da capa do processo, se o recurso tem como base uma decisão proferida no processo ou uma decisão proferida em outro recurso:
 
-IMG_RECURSO_4
+![Informações do recurso](/imagens/recurso_4.jpg)
 
 Por padrão, os cabeçalhos das capas processuais exibirão sempre a cadeia recursal com as siglas da classe, assim como já ocorre com o processo originário.

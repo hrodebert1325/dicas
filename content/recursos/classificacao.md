@@ -12,7 +12,7 @@ A lista de **Recursos não registrados (2)** exibe todos os documentos vinculado
 
 Caso a classificação da peça recursal tenha sido feita errada, o documento estará na lista **Outros documentos do processo (3)** e a reclassificação acontece nessa mesma tela, por meio do ícone de lápis (4) disponível na coluna **Ações**, do documento correspondente:
 
-IMG_RECURSO_3
+![Informações do recurso](/imagens/recurso_3.jpg)
 
 Ao selecionar salvar, o sistema moverá o documento, agora reclassificado, da lista Outros documentos do processo para a lista Recursos não registrados.
 
