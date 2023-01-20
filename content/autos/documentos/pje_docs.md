@@ -1,7 +1,7 @@
 ---
 title: "PJe Docs"
 date: 2023-01-17T19:20:19-03:00
-weight: 9
+weight: 8
 ---
 O PJe Docs criou novos filtros (diferentes critérios) para download de processos e, no arquivo pdf gerado, foi adicionado uma marca d’água de Sigiloso quando o 
 processo/documento tiver sigilo. Para processos sigilosos, a marca d'água aparece em todos os documentos. Quando apenas alguns documentos do processo são sigilosos, só esses terão a marcação de sigiloso.
