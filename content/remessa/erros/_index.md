@@ -1,9 +1,8 @@
 +++
-title = "Correção de erros"
+title = "Erros de remessa"
 date = 2023-01-20T10:29:52-03:00
 weight = 6
 chapter = true
-menuTitle = "Correção de erros"
 +++
 
 # Erros de remessa
