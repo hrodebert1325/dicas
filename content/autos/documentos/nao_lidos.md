@@ -6,7 +6,7 @@ weight: 4
 
 Esse é um controle que sinaliza para o usuário interno que novos documentos foram incluídos por usuário externo:
 
-INSERIR IMAGEM DOCUMENTOS_NAO_LIDOS
+![Tela de documentos não lidos](/imagens/documentos_nao_lidos.jpg)
 
 Trata-se de mero aviso. Para que ele não seja mais exibido, basta sinalizar que já viu o documento, não sendo necessário efetivamente vê-lo.
 
