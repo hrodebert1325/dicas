@@ -6,7 +6,7 @@ weight: 7
 
 No quarto e último passo, o usuário pode verificar o resumo das informações do recurso e selecionar a finalização do registro:
 
-IMG_RECURSO_7
+![Informações do recurso](/imagens/recurso_7.jpg)
 
 Ao selecionar a opção Cadastrar recurso, o sistema envia o recurso cadastrado para a primeira tarefa do fluxo vinculado à classe recursal.
 
