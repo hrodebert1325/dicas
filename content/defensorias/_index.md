@@ -14,7 +14,7 @@ pre = "<b>9. </b>"
 
 As defensorias atuam como representantes processuais (advogados) das partes e são vinculadas àquelas no momento da autuação/retificação da autuação:
 
-IMG_DEFENSORIA_1
+![Tela da defensoria](/imagens/defensoria_1.jpg)
 
 Para que tal procedimento seja possível é necessário que haja uma defensoria cadastrada no PJe e que tenham defensores a ela vinculados. 
 
