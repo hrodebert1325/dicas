@@ -6,7 +6,6 @@ hidden: false
 menuTitle: "Correções conhecidas"
 ---
 
-
 ## CEP
 
 Esse erro aparece quando alguma das partes do processo está com o CEP inválido ou em branco.
