@@ -15,7 +15,7 @@ O Assessor de plenário pode liberar o voto/documentos para que sejam visualizad
 + O processo tenha sido julgado;
 + A sessão esteja encerrada.
 
-Se o parâmetro pje:sessao:plenarioVirtual:documentoAssinado estiver com o valor true, o documento só aparecerá em **Pautas de julgament** após assinatura do acórdão.
+Se o parâmetro pje:sessao:plenarioVirtual:documentoAssinado estiver com o valor true, o documento só aparecerá em **Pautas de julgamento** após assinatura do acórdão.
 
 Os processos e votos/documentos serão visualizados no menu **Painel do membro da OAB na sessão** em sessões contínuas, quando iniciada a sessão.
 
