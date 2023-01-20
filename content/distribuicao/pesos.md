@@ -22,4 +22,4 @@ Ao selecionar a opção Incluir, o sistema exibirá a seguinte mensagem: “Dese
 
 Finalizada essa etapa, você deve vincular o magistrado como titular do órgão vinculado ao novo cargo judicial.
 
-Mais informações sobre a distribuição: Distribuição - PJe
+Mais informações sobre a distribuição: [Distribuição - PJe](https://www.pje.jus.br/wiki/index.php/Distribui%C3%A7%C3%A3o).
