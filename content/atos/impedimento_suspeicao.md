@@ -24,7 +24,13 @@ A remoção do impedimento registrado é feito na mesma aba.
 
 {{% tab name="ZONAS" %}}
 
-No PJe 1G essa configuração é feita pela ASPJe e hoje (consulta efetuada em novembro de 2022) está da seguinte maneira:
+No PJe 1G, quando um juiz eleitoral se declara suspeito ou impedido e novo juiz é designado para o processo, além do registro de impedimento, há outras atividades que precisam ser realizadas.
+
+Para que o juiz eleitoral substituto visualize apenas o processo para o qual foi designado, sem ter acesso a todos os outros processos da Zona Eleitoral, inclusive os sigilosos, é preciso que o processo em questão seja redistribuído para o substituto (no PJe, como regra, apenas juízes titulares recebem distribuição) e que este magistrado receba visibilidade apenas para o cargo de juiz substituto na zona em questão.
+
+Para tanto, em **órgão julgador,** na aba **visibilidade,** deve-se configurar a visibilidade apenas para o cargo juiz substituto e, caso o processo seja sigiloso, adicioná-lo como visualizador do processo.
+
+Note que, caso a visibilidade do juiz titular do órgão julgador permaneça como todos (que é o padrão), ele seguirá tendo acesso ao processo para o qual se declarou suspeito/impedido. Se isso for um problema, a solução a ser adotada é a alteração da visibilidade do juiz titular para apenas titular.
 
 {{% /tab %}}
 
