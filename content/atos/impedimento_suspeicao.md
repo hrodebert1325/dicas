@@ -47,7 +47,7 @@ Nas telas de sessão, no local onde eram exibidos os impedimentos dos magistrado
 
 
 {{% notice warning %}}
-Informação importante para os administradores do PJe: para registrar magistrados impedidos/suspeitos nos autos de um processo é necessário ter o papel pje:papel:administrarAutuacao. A visualização também está vinculada a este papel. 
+Informação importante para os administradores do PJe: para registrar magistrados impedidos/suspeitos nos autos de um processo é necessário ter o papel pje:papel:administrarAutuacao. A visualização também está vinculada a esse papel. 
 {{% /notice %}}
 
 
