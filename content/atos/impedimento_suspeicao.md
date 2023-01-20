@@ -12,9 +12,13 @@ menuTitle: "Impedimentos e suspeições"
 
 Para registrar o impedimento deve-se selecionar o magistrado e vincular um documento assinado do processo. Nesse momento, o sistema pede confirmação do registro do impedimento e do documento selecionado.
 
-Feito isto, a lista de magistrados impedidos na tela é atualizada:
+Feito isto, a lista de magistrados impedidos - exibida por meio de ícone correspondente, na barra de ícones superiores do cabeçalho dos autos, ao lado do ícone de etiquetas -, é atualizada:
 
 IMG_IMPEDIMENTO_1
+
+Importante ressaltar que os impedimentos/suspeições identificados a partir das características dos processos (município, estado, advogado, parte etc.), não atualizam esta lista.
+
+A remoção do impedimento registrado é feito na mesma aba.
 
 {{< tabs groupId="impedimento_suspeicao" >}}
 
@@ -24,25 +28,22 @@ No PJe 1G essa configuração é feita pela ASPJe e hoje (consulta efetuada em n
 
 {{% /tab %}}
 
-{{% tab name="TREs" %}}
+{{% tab name="TREs/TSE" %}}
 
-No PJe 2G os administradores locais de cada TRE são responsáveis por essa configuração.
+No PJe 2G e 3G o voto de impedimento proferido também atualiza a lista de magistrados impedidos, sendo todos exibidos nos autos do processo.
 
-{{% /tab %}}
+Para atualização da lista de impedidos para os autos é fundamental realizar um dos registros de impedimento (via menu ou via voto).
 
-{{% tab name="TSE" %}}
+Na tarefa que exibe impedimento do relator (SJD), serão considerados também esses registros para apontá-los em conjunto com os outros existentes vinculados a regras específicas pelas características do processo, conforme o caso. 
 
-No PJe do TSE essa configuração é feita pela ASPJe e hoje (consulta efetuada em novembro de 2022) está da seguinte maneira:
+Nas telas de sessão, no local onde eram exibidos os impedimentos dos magistrados do colegiado da sessão vinculados a regras específicas pelas características do processo, também serão exibidos os impedimentos por processo (botão **Verificar impedimentos**).
 
 {{% /tab %}}
 {{< /tabs >}}
 
 
-O voto de impedimento proferido também atualiza a lista de magistrados impedidos, sendo todos exibidos nos autos do processo.
-Importante ressaltar que os impedimentos/suspeições identificados a partir das características dos processos (município, estado, advogado, parte etc.), não atualizam esta lista.
-Para atualização da lista de impedidos para os autos é fundamental realizar um dos registros de impedimento (via menu ou via voto do Ministro ver o que é isso). A lista de impedidos é exibida por meio de ícone correspondente, na barra de ícones superiores do cabeçalho dos autos, ao lado do ícone de etiquetas.
-A remoção do impedimento registrado faz-se através da mesma aba.
-Na tarefa que exibe impedimento do relator (SJD), serão considerados também esses registros para apontá-los em conjunto com os outros existentes vinculados a regras específicas pelas características do processo, conforme o caso. 
-Nas telas de sessão, no local (botão verificar impedimentos) onde eram exibidos os impedimentos dos magistrados do colegiado da sessão vinculados a regras específicas pelas características do processo, também serão exibidos os impedimentos por processo.
+{{% notice warning %}}
+Informação importante para os administradores do PJe: para registrar magistrados impedidos/suspeitos nos autos de um processo é necessário ter o papel pje:papel:administrarAutuacao. A visualização também está vinculada a este papel. 
+{{% /notice %}}
 
-Informação importante para os administradores do PJe: para registrar magistrados impedidos/suspeitos nos autos de um processo é necessário ter o papel pje:papel:administrarAutuacao . A visualização também está vinculada a este papel. 
+
