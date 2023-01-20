@@ -51,8 +51,8 @@ div.notices.tip p:first-child:after {
 
 
 mark.destaquedicas { 
-    background-color: rgb(238, 97, 97);
-    color: white;
+    background-color: yellow;
+    color: black;
     font-weight: bold;
     text-transform: uppercase;
   }
