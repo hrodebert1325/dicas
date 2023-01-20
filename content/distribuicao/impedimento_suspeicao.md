@@ -12,7 +12,7 @@ Para registrar o impedimento deve-se selecionar o magistrado e vincular um docum
 
 Feito isto, a lista de magistrados impedidos - exibida por meio de ícone correspondente, na barra de ícones superiores do cabeçalho dos autos, ao lado do ícone de etiquetas -, é atualizada:
 
-IMG_IMPEDIMENTO_1
+![Magistrados impedidos](/imagens/impedimento_1.jpg)
 
 Importante ressaltar que os impedimentos/suspeições identificados a partir das características dos processos (município, estado, advogado, parte etc.), não atualizam esta lista.
 
