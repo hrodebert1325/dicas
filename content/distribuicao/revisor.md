@@ -7,13 +7,13 @@ Para que o processo tenha o nome do revisor atribuído automaticamente no moment
 
 Desde que, na configuração do órgão julgador colegiado, os revisores estejam configurados:
 
-IMG_REVISOR_1
+![Tela para definir revisor](/imagens/revisor_1.jpg)
 
 Em estando a classe configurada com a opção exige revisor marcada como facultativa, o processo pode ou não ter revisor, mas ele sempre será distribuído automaticamente sem revisor e o servidor precisará ir na tarefa **Definir revisor** e indicar quem é o revisor do processo.
 
 Tal tarefa está disponível a partir da tarefa **Analisar determinação/Analisar determinação - urgentes** e possibilita a determinação do revisor para processos cujas classes tenham a revisão marcada como facultativa:
 
-IMG_REVISOR_2
+![Tela para definir revisor](/imagens/revisor_2.jpg)
 
 O nome do revisor pode ser verificado no autos digitais, na opção exibir mais detalhes do cabeçalho.
 
