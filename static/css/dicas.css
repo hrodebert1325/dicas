@@ -48,3 +48,9 @@ div.notices.note p:first-child:after {
 div.notices.tip p:first-child:after {
     content: 'Dica';
 }
+
+
+mark.destaquedicas { 
+    background-color: yellow;
+    color: black;
+  }
