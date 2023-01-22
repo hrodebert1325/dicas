@@ -77,3 +77,8 @@ table.variaveismodelo {
 .variaveismodelo tr:nth-child(even) {
     background-color: #f2f2f2;
   }
+
+.videodicas .player-poster[data-poster] .play-wrapper[data-poster] svg path {
+	fill: rgb(151, 199, 247) !important;
+}
+
