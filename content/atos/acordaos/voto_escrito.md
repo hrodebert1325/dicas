@@ -3,6 +3,7 @@ title: "Voto Escrito dos Vogais em Paralelo"
 date: 2023-01-20T16:20:20-03:00
 weight: 2
 menuTitle: "Voto escrito"
+hidden: true
 ---
 
 {{% notice warning %}}
