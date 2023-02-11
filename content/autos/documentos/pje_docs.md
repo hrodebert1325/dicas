@@ -13,11 +13,11 @@ Quando o usuário solicita o download dos autos de um processo ou de alguns docu
 
 ## Download síncrono
 
-Sempre que o documento tiver um tamanho de até xx, o download será processado de forma síncrona, ou seja, será realizado na hora da solicitação.
+Sempre que o documento tiver um tamanho de até 50Mb, o download será processado de forma síncrona, ou seja, será realizado na hora da solicitação.
 
 ## Download assíncrono
 
-Quando o documento tiver um tamanho superior a xx, o download será processado de forma assíncrona, ou seja, será será enviado para uma fila de processamento e disponibilizado para baixar na opção **Área de download** após a conclusão do processamento.
+Quando o documento tiver um tamanho superior a 50Mb, o download será processado de forma assíncrona, ou seja, será será enviado para uma fila de processamento e disponibilizado para baixar na opção **Área de download** após a conclusão do processamento.
 
 O usuário receberá uma mensagem de alerta, informando que documento será gerado e disponibilizado no menu **Download - Área de download.**
 
