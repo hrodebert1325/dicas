@@ -9,7 +9,7 @@ Para realizar a atividade de forma isolada, a partir da tarefa **Verificar pend�
 
 Para registrar o trânsito de vários processos ao mesmo tempo,  a partir da tarefa **Verificar pendências,** selecione os processo que deseja movimentar e utilize a opção **movimentar em lote,** movimentando-os para a tarefa **Registrar trânsito em julgado.**
 
-Feito isso, haverá uma tarefa denominada **Informar data de trânsito em julgado.** Nela, ao selecionar os processos que deseja movimentar, será aberto o ícone do calendário, onde será informada a data do trânsito de todos os processos do selecionados (lote). 
+Feito isso, haverá uma tarefa denominada **Informar data de trânsito em julgado.** Nela, ao selecionar os processos que deseja movimentar, será aberto o ícone do calendário, onde será informada a data do trânsito de todos os processos selecionados (lote). 
 
 A data a ser informada no campo **Data de trânsito em julgado em lote** é a data efetiva do trânsito em julgado, a que irá aparecer no respectivo movimento na árvore dos processos. 
 
