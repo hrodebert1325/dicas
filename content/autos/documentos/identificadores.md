@@ -17,6 +17,6 @@ Para a finalidade de identificação de documentos, existe um campo negocial, de
 
 ![Numero Opcional](/imagens/numero_opcional.jpg)
 
-O campo **Número** também está disponível na juntada de documentos pelos autos digitais e, quando informado, ele é exibido nos autos digitais e também na lista de documentos do processo.
+O campo **Número** também está disponível na juntada de documentos pelos autos digitais e, quando informado, ele é exibido nos autos digitais e na lista de documentos do processo.
 
 ![Numero Opcional](/imagens/numero_opcional_2.png)
