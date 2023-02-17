@@ -4,7 +4,7 @@ date: 2022-11-23T17:50:08-03:00
 weight: 1
 ---
 
-No modelo de documento, utilizar as variáveis:
+No modelo de documento, utilize as variáveis:
 
 `#{processoTrfHome.tabelaHashDocumentosComId}`
 
