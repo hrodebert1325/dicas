@@ -6,7 +6,7 @@ weight: 8
 O PJe Docs criou novos filtros (diferentes critérios) para download de processos e, no arquivo pdf gerado, foi adicionado uma marca d’água de Sigiloso quando o 
 processo/documento tiver sigilo. Para processos sigilosos, a marca d'água aparece em todos os documentos. Quando apenas alguns documentos do processo são sigilosos, só esses terão a marcação de sigiloso.
 
-Também foi acrescentada a informação, no rodapé da página, de quem foi o usuário responsável pelo download (“Este documento foi gerado pelo usuário 000.***.***-
+Também foi acrescentada a informação, no rodapé da página, de quem foi o usuário responsável pelo download (“Este documento foi gerado pelo usuário 000.xxx.xxx-
 00 em DD/MM/AAAA HH:MM:SS).
 
 Quando o usuário solicita o download dos autos de um processo ou de alguns documentos deste, o PJe adota dois comportamentos, conforme o tamanho do arquivo a ser baixado.
