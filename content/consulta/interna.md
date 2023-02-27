@@ -17,7 +17,7 @@ A tela da consulta exibe uma variedade de campos de pesquisa, livres e tabelados
 
 ![Tela de consulta interna](/imagens/consulta_3.jpg)
 
-+ Consulta de processos para servidor de outra instância:
+## Consulta de processos para servidor de outra instância:
 
 No PJe 1G há um perfil de servidor chamado **Consulta de processos para servidor,** exclusivamente para consulta, não sendo possível consultar processos sigilosos. 
 
@@ -33,7 +33,7 @@ O cadastro dos usuários vinculados ao perfil é feito em **Configuração - Pes
 
 ![Tela de consulta interna](/imagens/consulta_5.jpg)
 
-+ Procuradorias
+## Procuradorias
 
 Outra forma de usuários de uma instância terem acesso ou praticarem atos em processos que estão em outra instância é mediante a criação de procuradorias.
 
