@@ -1,18 +1,8 @@
-
-  <div id="player-wrapper_{{ .Get 1 }}" class="videodicas"></div>
+<div class="video-container-dicas">  
+    <video controls height="{{ .Get "height" | default "360" }}" width="{{ .Get "width" | default "640" }}">
+        <source src="{{ .Get "caminho" }}" type="video/mp4">
+        Seu navegador não suporta a tag de vídeo.
+    </video>
+</div>
 
   
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@clappr/player@latest/dist/clappr.min.js"></script>
-  <script>
-    var playerElement = document.querySelector("#player-wrapper_{{ .Get 1 }}");
-    
-    var player = new Clappr.Player({
-      source: {{.Get 0}},
-      mute: true,
-      controls: true,
-      height: 360,
-      width: 640
-    });
-    
-    player.attachTo(playerElement);  
-  </script>

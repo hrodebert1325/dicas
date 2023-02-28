@@ -78,7 +78,9 @@ table.variaveismodelo {
     background-color: #f2f2f2;
   }
 
-.videodicas .player-poster[data-poster] .play-wrapper[data-poster] svg path {
-	fill: rgb(151, 199, 247) !important;
+.video-container-dicas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-
+  
