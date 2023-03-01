@@ -7,13 +7,13 @@ weight: 4
 
 A **Consulta Pública** é uma forma de usuários não logados no sistema terem acesso aos documentos públicos do processo. Ela pode ser acessada pela página inicial do PJe de qualquer uma das instâncias da Justiça Eleitoral (Zonas, TREs e TSE):
 
-IMG_CONSULTA_PÚBLICA_1
+![Tela 1](/imagens/consulta_publica_1.jpg)
 
 Essa forma de consulta tem mais restrições e só deve ser utilizada quando não for possível a consulta interna (para usuários logados).
 
 Para facilitar o cidadão que busca informações sobre os processos eleitorais, o PJe da Justiça Eleitoral não utiliza a Consulta Pública do PJe, mas uma Consulta Pública Unificada, desenvolvida pelo próprio TSE. Nela é possível realizar pesquisa a dados básicos do processo, como número, nome das partes e dados do advogado, entre outros:
 
-IMG_CONSULTA_PÚBLICA_2
+![Tela 2](/imagens/consulta_publica_2.jpg)
 
 
 Pela consulta unificada o usuário tem acesso à movimentação processual, sentenças, votos e acórdãos em todas as instâncias da Justiça Eleitoral, não apenas no Tribunal Superior Eleitoral (TSE), suprindo a necessidade antes existente de percorrer cada um dos sites dos Tribunais Regionais Eleitorais.
