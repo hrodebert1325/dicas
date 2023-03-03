@@ -1,86 +1,94 @@
-
 h1 {
-    font-size: 2.75rem; 
-    }
-   
-  #chapter h1 {
-      font-size: 4.5rem;
-     }
-     
+  font-size: 2.75rem;
+}
+
+@media only all and (min-width: 48em) and (max-width: 59.938em) {
+  h1 {
+    font-size: 2.5rem;
+  }
+}
+
+@media only all and (max-width: 47.938em) {
+  h1 {
+    font-size: 1.5rem;
+  }
+}
+
+#chapter h1 {
+  font-size: 4.5rem;
+}
+
+body #chapter h1 {
+  font-size: 3rem;
+}
+@media only all and (min-width: 48em) and (max-width: 59.938em) {
   body #chapter h1 {
-      font-size: 3.0rem;
+    font-size: 2.5rem;
   }
-  @media only all and (min-width: 48em) and (max-width: 59.938em) {
-      body #chapter h1 {
-          font-size: 2.5rem;
-      }
+}
+@media only all and (max-width: 47.938em) {
+  body #chapter h1 {
+    font-size: 1.5rem;
   }
-  @media only all and (max-width: 47.938em) {
-      body #chapter h1 {
-          font-size: 1.5rem;
-      }
-  }
-  
+}
+
 #body-inner p {
-    text-align: justify;
+  text-align: justify;
 }
 
 #body-inner > ul > li {
-    text-align: justify;
+  text-align: justify;
 }
 
 #body-inner > ol > li {
-    text-align: justify;
+  text-align: justify;
 }
 
 div.notices.info p:first-child:after {
-    content: 'Observação';
+  content: "Observação";
 }
 
 div.notices.warning p:first-child:after {
-    content: 'Atenção';
+  content: "Atenção";
 }
 
 div.notices.note p:first-child:after {
-    content: 'Nota';
+  content: "Nota";
 }
 
 div.notices.tip p:first-child:after {
-    content: 'Dica';
+  content: "Dica";
 }
 
-
-mark.destaquedicas { 
-    background-color: yellow;
-    color: black;
-    font-weight: bold;
-    text-transform: uppercase;
-  }
+mark.destaquedicas {
+  background-color: yellow;
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+}
 
 table.variaveismodelo {
-    overflow-wrap: break-word;
-    table-layout:fixed; 
-    width: 100%;
+  overflow-wrap: break-word;
+  table-layout: fixed;
+  width: 100%;
 }
 
-
 .variaveismodelo > thead > tr > :nth-child(1) {
-    /* background-color: greenyellow; */
-    width:30%;
+  /* background-color: greenyellow; */
+  width: 30%;
 }
 
 .variaveismodelo > thead > tr > :nth-child(2) {
-    /* background-color: red; */
-    width:50%;
+  /* background-color: red; */
+  width: 50%;
 }
 
 .variaveismodelo tr:nth-child(even) {
-    background-color: #f2f2f2;
-  }
+  background-color: #f2f2f2;
+}
 
 .video-container-dicas {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-  
