@@ -27,7 +27,13 @@ custom_css = ["css/dicas.css"]
 home = ["HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
+name = '<i class="fas fa-tag"></i> Formulário SGT'
+identifier = "sgt"
+url = "https://docs.google.com/forms/d/e/1FAIpQLSf8t7ytC4vzxM2e6GEUtN_au28whzhE7YQ9ZE7-pkl3rMiTng/viewform?embedded=true"
+weight = 9
+
+[[menu.shortcuts]]
 name = '<i class="fas fa-pen"></i> Participe!'
-identifier = "ds"
+identifier = "participe"
 url = "https://docs.google.com/forms/d/e/1FAIpQLSfxRFWQlGyeRiFW4ZKZQDvc8ofZc44nqFrsyn5m4ll3oR9ffw/viewform?embedded=true"
 weight = 10
