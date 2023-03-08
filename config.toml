@@ -6,6 +6,7 @@ defaultContentLanguage = "pt"
 defaultContentLanguageInSubdir = false
 metaDataFormat = "yaml"
 canonifyURLs = true
+googleAnalytics = "G-FF8QSSKC39"
 
 
 [params]
