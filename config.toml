@@ -10,7 +10,7 @@ canonifyURLs = true
 
 [params]
 themeVariant = "blue"
-editURL = "https://github.com/PJeJE/laeeb/edit/master/content/"
+editURL = "https://github.com/PJeJE/dicas/edit/master/content/"
 description = "PJe Dicas v2.0"
 author = "ASPJE"
 showVisitedLinks = true
