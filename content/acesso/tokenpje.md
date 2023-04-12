@@ -9,3 +9,13 @@ Usuários internos (servidores e magistrados) podem configurar o aparelho celula
 {{% notice note %}}
 [Clicando aqui](/docs/PJE_certificado_token_virtual_v100.pdf) você encontra um tutorial com o passo-a-passo necessário para essa configuração (material cedido pelo TRESC).
 {{% /notice %}}
+
+{{% notice warning %}}
+Diante das restrições atuais na Play Store para utilização do aplicativo TokenPJe para quem tem smartphone com a versão do Android mais recente, existem duas possibilidades, ambas restritas a usuários internos:
+{{% /notice %}}
+
+1. Utilizar o arquivo .APK para instalação no Android sem ser pela Play Store. 
+    * [Clique aqui](/outros/TokenPJe.apk) para fazer o download do arquivo. 
+    * [Este link](https://canaltech.com.br/android/como-instalar-um-apk-no-android/) explica como realizar a instalação de um aplicativo usando o arquivo APK;
+        
+2. Utilizar o PJeOffice Versão Justiça Eleitoral (Certificado P12). [Clique aqui](https://pjeje.github.io/dicas/acesso/certvirtual/) para mais informações.
