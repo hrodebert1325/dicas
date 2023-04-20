@@ -11,7 +11,7 @@ A **Consulta Pública** é uma forma de usuários não logados no sistema terem 
 
 Essa forma de consulta tem mais restrições e só deve ser utilizada quando não for possível a consulta interna (para usuários logados).
 
-Para facilitar o cidadão que busca informações sobre os processos eleitorais, o PJe da Justiça Eleitoral não utiliza a Consulta Pública do PJe, mas uma Consulta Pública Unificada, desenvolvida pelo próprio TSE. Nela é possível realizar pesquisa a dados básicos do processo, como número, nome das partes e dados do advogado, entre outros:
+Para facilitar o acesso ao cidadão que busca informações sobre os processos eleitorais, o PJe da Justiça Eleitoral não utiliza a Consulta Pública do PJe, mas uma Consulta Pública Unificada, desenvolvida pelo próprio TSE. Nela é possível realizar pesquisa a dados básicos do processo, como número, nome das partes e dados do advogado, entre outros:
 
 ![Tela 2](/imagens/consulta_publica_2.jpg)
 
