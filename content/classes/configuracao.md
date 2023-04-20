@@ -48,7 +48,7 @@ E - **Fluxo:** especifica o fluxo ao qual estarão associados os processos que u
 
 15 - **Exige numeração própria:** define se processos vinculados à classe sempre receberão número próprio na remessa entre instâncias. O correto é deixar a opção desmarcarda, para que a numeração originária do processo seja utilizada. ATENÇÃO: essa opção não pode estar marcada pois, nas remessas, fará com que os processos recebam novo número, em desacordo com a Resolução CNJ n. 69, que trata da Numeração Única.
 
-16 - **Exige Fiscal da Lei:** quando marcado, coloca o Ministério Público como Fiscal da Lein no campo Outros Interessados.
+16 - **Exige Fiscal da Lei:** quando marcado, coloca o Ministério Público como Fiscal da Lei no campo Outros Interessados.
 
 17 - **Habilitar máscara:** quando marcado sim, este campo serve para que, sendo indicado o processo de referência (opção do campo 8), ao digitar o número do processo referência, o sistema coloque uma máscara, exibindo pontos e traços no lugar certo, para facilitar a digitação.
 
@@ -62,7 +62,7 @@ E - **Fluxo:** especifica o fluxo ao qual estarão associados os processos que u
 
 22 - **Realiza compensação:** marca indicativa de que o processo dessa classe deve provocar compensação. De acordo com a documentação do CNJ, essa configuração não está em uso no sistema.
 
-23 - **Composição de Julgamento:** permite definir a composição de julgamento, como sendo Integral, Reduzido ou facultativo, 
+23 - **Composição de Julgamento:** permite definir a composição de julgamento, como sendo Integral, Reduzido ou Facultativo.
 
 24 - **Permite numeração manual:** possibilita a criação de um novo processo com a numeração informada manualmente pelo usuário cadastrador. Tal usuário precisa herdar um papel específico para que essa opção possa ser utilizada. Como seu uso não é autorizado na Justiça Eleitoral, pois temos uma ferramenta própria para migração de processos, o papel necessário não está habilitado.
 
