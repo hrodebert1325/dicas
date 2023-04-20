@@ -14,7 +14,7 @@ B - **Natureza:** campo de textual para registro de diferenciação entre classe
 
 C - **Classe superior:** indica a classe hierarquicamente superior da classe selecionada, com base na TPU/CNJ.
 
-D - **Tipo de Documento Inicial:** indica o tipo de documento exigido para que a classe.
+D - **Tipo de Documento Inicial:** indica o tipo de documento exigido para a classe.
 
 E - **Fluxo:** especifica o fluxo ao qual estarão associados os processos que utilizam a classe. 
 
