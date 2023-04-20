@@ -14,6 +14,6 @@ O campo **Local do Fato** apesar do sinal de * ao lado, é de preenchimento opci
 {{% /notice %}}
 
 
-**Procedimento de Origiem:** nesta aba, o preenchimento de pelo menos um  procedimento é obrigatório para conseguir distribuir o processo. Estado e Tipo de origem também são dados obrigatórios.
+**Procedimento de Origem:** nesta aba, o preenchimento de pelo menos um  procedimento é obrigatório para conseguir distribuir o processo. Estado e Tipo de origem também são dados obrigatórios.
 
 **Indiciamento:** aba cujo preenchimento não é obrigatório. Serve para cadastramento de incidências penais no momento da distribuição.
