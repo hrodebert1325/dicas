@@ -8,7 +8,7 @@ O cadastramento do Ministério Público, das Zonas Eleitorais e dos Tribunais Re
 
 O cuidado com o cadastramento de partes é funcamental. Novas partes não devem ser cadastradas desnecessariamente, para evitar o desencontro de informações e a poluição  da base de dados do PJE. 
 
-Essa orientação serve para todo o tipo de parte a ser criada: verifique se ela já existe no sistema. Caso exista e esteja com algum dado incorreto, proceda a correção da parte existente e não à criação de uma nova parte.
+Essa orientação serve para todo o tipo de parte a ser criada: verifique se ela já existe no sistema. Caso exista e esteja com algum dado incorreto, proceda à correção da parte existente e não à criação de uma nova parte.
 
 Do mesmo modo, nos processos protocolados pelo público externo, adote o hábito de verificar se o cadastro feito pelo advogado está correto, caso contrário retifique a autuação.
 
