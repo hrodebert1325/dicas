@@ -31,7 +31,7 @@ Enquanto existir pendência de algum gabinete para voto escrito, é possível vi
 
 {{< video "/videos/votoparalelo_video2_processo_em_aguardando_votos_escritos.mp4" "my-play2" >}}
 
-## Visã do Gabinete
+## Visão do Gabinete
 
 Assim que liberado, pela COARE, para voto escrito, o processo aparece no gabinete selecionado
 na tarefa **Elaborar Voto Escrito Paralelo**. Onde é possível elaborar o voto e realizar a devolução
