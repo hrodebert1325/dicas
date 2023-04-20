@@ -12,7 +12,7 @@ Essa orientação serve para todo o tipo de parte a ser criada: verifique se ela
 
 Do mesmo modo, nos processos protocolados pelo público externo, adote o hábito de verificar se o cadastro feito pelo advogado está correto, caso contrário retifique a autuação.
 
-Quando identificar a duplicidade de partes, se tiver certeza de que são a mesma pessoa, utilize a ferramenta de unificação de partes. Quando não for possível a unificação, ao menos inative a parte incorreta, para evitar novas autuaçãoes erradas.
+Quando identificar a duplicidade de partes, se tiver certeza de que são a mesma pessoa, utilize a ferramenta de unificação de partes. Quando não for possível a unificação, ao menos inative a parte incorreta, para evitar novas autuações erradas.
 
 {{< tabs groupId="partes" >}}
 
